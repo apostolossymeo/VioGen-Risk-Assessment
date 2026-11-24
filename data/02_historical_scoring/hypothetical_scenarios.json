@@ -1,0 +1,301 @@
+[
+  {
+    "name": "all_rows_no",
+    "selected_rows": [],
+    "unknown_rows": [],
+    "score_min": 0.0,
+    "score_max": 0.0,
+    "category": "No appreciable risk",
+    "category_at_min": "No appreciable risk",
+    "category_at_max": "No appreciable risk",
+    "indicators_present": 0,
+    "purpose": "Baseline: every row answered No."
+  },
+  {
+    "name": "firearm_used",
+    "selected_rows": [
+      "I5_firearm_use"
+    ],
+    "unknown_rows": [],
+    "score_min": 1.533,
+    "score_max": 1.533,
+    "category": "No appreciable risk",
+    "category_at_min": "No appreciable risk",
+    "category_at_max": "No appreciable risk",
+    "indicators_present": 1,
+    "purpose": "F02 (1.533) + firearm sub-item (0.000). Not a statement about the danger of firearms."
+  },
+  {
+    "name": "knife_used",
+    "selected_rows": [
+      "I5_knife"
+    ],
+    "unknown_rows": [],
+    "score_min": 5.533,
+    "score_max": 5.533,
+    "category": "No appreciable risk",
+    "category_at_min": "No appreciable risk",
+    "category_at_max": "No appreciable risk",
+    "indicators_present": 1,
+    "purpose": "F02 (1.533) + knife sub-item (4.000, critical indicator no. 3, p. 193)."
+  },
+  {
+    "name": "firearm_and_knife_used",
+    "selected_rows": [
+      "I5_firearm_use",
+      "I5_knife"
+    ],
+    "unknown_rows": [],
+    "score_min": 5.533,
+    "score_max": 5.533,
+    "category": "No appreciable risk",
+    "category_at_min": "No appreciable risk",
+    "category_at_max": "No appreciable risk",
+    "indicators_present": 1,
+    "purpose": "Sub-items are checkboxes (\"se pueden marcar varias opciones\", p. 294): both can be ticked."
+  },
+  {
+    "name": "firearm_access_without_use",
+    "selected_rows": [
+      "I6_firearm_access"
+    ],
+    "unknown_rows": [],
+    "score_min": 0.0,
+    "score_max": 0.0,
+    "category": "No appreciable risk",
+    "category_at_min": "No appreciable risk",
+    "category_at_max": "No appreciable risk",
+    "indicators_present": 1,
+    "purpose": "I6 is assessed independently of F02 (p. 295) and weighs 0."
+  },
+  {
+    "name": "death_threat_escalation",
+    "selected_rows": [
+      "I7_death_threat",
+      "I8_escalation"
+    ],
+    "unknown_rows": [],
+    "score_min": 5.6,
+    "score_max": 5.6,
+    "category": "No appreciable risk",
+    "category_at_min": "No appreciable risk",
+    "category_at_max": "No appreciable risk",
+    "indicators_present": 2,
+    "purpose": "F03 (0) + death threat (2.800) + escalation (2.800)."
+  },
+  {
+    "name": "stalking_separation",
+    "selected_rows": [
+      "I11_stalking",
+      "I36_recent_separation"
+    ],
+    "unknown_rows": [],
+    "score_min": 8.226,
+    "score_max": 8.226,
+    "category": "No appreciable risk",
+    "category_at_min": "No appreciable risk",
+    "category_at_max": "No appreciable risk",
+    "indicators_present": 2,
+    "purpose": "Two critical indicators, still below the first cut-off."
+  },
+  {
+    "name": "stalking_separation_fear",
+    "selected_rows": [
+      "I11_stalking",
+      "I36_recent_separation",
+      "I39_victim_fear_lethal"
+    ],
+    "unknown_rows": [],
+    "score_min": 11.056,
+    "score_max": 11.056,
+    "category": "Low",
+    "category_at_min": "Low",
+    "category_at_max": "Low",
+    "indicators_present": 3,
+    "purpose": "Adding the victim's own perception (I39) crosses 9.535."
+  },
+  {
+    "name": "coding_choice_without_insults",
+    "selected_rows": [
+      "I11_stalking",
+      "I36_recent_separation"
+    ],
+    "unknown_rows": [],
+    "score_min": 8.226,
+    "score_max": 8.226,
+    "category": "No appreciable risk",
+    "category_at_min": "No appreciable risk",
+    "category_at_max": "No appreciable risk",
+    "indicators_present": 2,
+    "purpose": "Input discretion, version A: the officer does not record the insults as psychological violence."
+  },
+  {
+    "name": "coding_choice_with_insults",
+    "selected_rows": [
+      "I11_stalking",
+      "I36_recent_separation",
+      "I1_psychological"
+    ],
+    "unknown_rows": [],
+    "score_min": 9.654,
+    "score_max": 9.654,
+    "category": "Low",
+    "category_at_min": "Low",
+    "category_at_max": "Low",
+    "indicators_present": 3,
+    "purpose": "Input discretion, version B: the same account, with the insults recorded as I1 (1.428). The level changes."
+  },
+  {
+    "name": "severity_choice_leve",
+    "selected_rows": [
+      "I11_stalking",
+      "I36_recent_separation",
+      "I2_physical"
+    ],
+    "unknown_rows": [],
+    "score_min": 8.226,
+    "score_max": 8.226,
+    "category": "No appreciable risk",
+    "category_at_min": "No appreciable risk",
+    "category_at_max": "No appreciable risk",
+    "indicators_present": 3,
+    "purpose": "Physical violence recorded as \"leve\" (no severity points)."
+  },
+  {
+    "name": "severity_choice_grave",
+    "selected_rows": [
+      "I11_stalking",
+      "I36_recent_separation",
+      "I2_physical_severe"
+    ],
+    "unknown_rows": [],
+    "score_min": 10.226,
+    "score_max": 10.226,
+    "category": "Low",
+    "category_at_min": "Low",
+    "category_at_max": "Low",
+    "indicators_present": 3,
+    "purpose": "Same episode recorded as \"grave\". Annex 5 tells officers to choose the more severe level when in doubt (pp. 292-294)."
+  },
+  {
+    "name": "record_prior_aggression",
+    "selected_rows": [
+      "I18_prior_aggression"
+    ],
+    "unknown_rows": [],
+    "score_min": 4.012,
+    "score_max": 4.012,
+    "category": "No appreciable risk",
+    "category_at_min": "No appreciable risk",
+    "category_at_max": "No appreciable risk",
+    "indicators_present": 1,
+    "purpose": "I18 is asked only if F08 (criminal/police record) is Sí (p. 301): 2.142 + 1.870. Version 1 scored 1.870."
+  },
+  {
+    "name": "unknowns_leave_level_open",
+    "selected_rows": [
+      "I11_stalking",
+      "I36_recent_separation"
+    ],
+    "unknown_rows": [
+      "I39_victim_fear_lethal",
+      "I9_jealousy"
+    ],
+    "score_min": 8.226,
+    "score_max": 14.596,
+    "category": "undetermined (unknown answers)",
+    "category_at_min": "No appreciable risk",
+    "category_at_max": "Low",
+    "indicators_present": 2,
+    "purpose": "Two answers \"No se sabe\": the score lies between 8.226 and 14.596, spanning two levels."
+  },
+  {
+    "name": "most_indicators_still_no_appreciable",
+    "selected_rows": [
+      "I1_psychological",
+      "I2_physical",
+      "I3_sexual",
+      "I4_defensive_reaction",
+      "F02_weapons_used",
+      "I5_other_object",
+      "I6_firearm_access",
+      "F03_threats",
+      "I7_children_threat",
+      "I12_material_damage",
+      "I15_confrontation_others",
+      "I16_problems_general",
+      "I23_family_history",
+      "I24_disability",
+      "I25_pregnancy",
+      "I26_serious_illness",
+      "I27_foreign",
+      "I28_social_support",
+      "I29_mental_disorder",
+      "I30_suicidal",
+      "I31_substance_abuse",
+      "I32_family_ipv",
+      "I33_economic_dependence",
+      "I34_dependents",
+      "I35_withdrawn_reports",
+      "I37_reciprocal",
+      "I38_family_fear"
+    ],
+    "unknown_rows": [],
+    "score_min": 9.165,
+    "score_max": 9.165,
+    "category": "No appreciable risk",
+    "category_at_min": "No appreciable risk",
+    "category_at_max": "No appreciable risk",
+    "indicators_present": 25,
+    "purpose": "Exact maximum: 25 of the 39 indicators can be Sí while the score stays in No apreciado. Logical possibility under the form structure, not an observed case."
+  },
+  {
+    "name": "fewest_indicators_extreme",
+    "selected_rows": [
+      "F02_weapons_used",
+      "I5_knife",
+      "F03_threats",
+      "I7_severe_threat",
+      "I7_suicide_threat",
+      "I7_death_threat",
+      "I8_escalation",
+      "I9_jealousy",
+      "I10_control_general",
+      "I10_control_physical",
+      "I10_control_psychological",
+      "I10_control_work",
+      "I10_control_cyber",
+      "I11_stalking",
+      "I14_attack_others_animals",
+      "F08_criminal_record",
+      "I22_substance_abuse",
+      "I36_recent_separation"
+    ],
+    "unknown_rows": [],
+    "score_min": 45.352,
+    "score_max": 45.352,
+    "category": "Extreme",
+    "category_at_min": "Extreme",
+    "category_at_max": "Extreme",
+    "indicators_present": 9,
+    "purpose": "Exact minimum: 9 indicators (12 facts counting the weighted factor questions F02/F03/F08) are enough for Extremo. The other route to a level (p. 192)."
+  },
+  {
+    "name": "exactly_at_first_cutoff",
+    "selected_rows": [
+      "I10_control_general",
+      "I10_control_physical",
+      "I13_disrespect_authority",
+      "I16_problems_general",
+      "F08_criminal_record"
+    ],
+    "unknown_rows": [],
+    "score_min": 9.535,
+    "score_max": 9.535,
+    "category": "No appreciable risk",
+    "category_at_min": "No appreciable risk",
+    "category_at_max": "No appreciable risk",
+    "indicators_present": 3,
+    "purpose": "Scores exactly 9.535: No appreciable risk if 'hasta' is inclusive, Low otherwise."
+  }
+]
