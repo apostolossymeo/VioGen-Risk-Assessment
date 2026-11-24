@@ -1,0 +1,826 @@
+=========== PDF PAGE 1 ===========
+SECRETARÍA DE ESTADO
+. A MINISTERIO DE SEGURIDAD
+| DEL INTERIOR
+y PY SECRETARIA DE ESTADO
+INSTRUCCIÓN 4/2019, DE LA SECRETARIA DE ESTADO DE SEGURIDAD, POR LA QUE SE
+ESTABLECE UN NUEVO PROTOCOLO PARA LA VALORACIÓN POLICIAL DEL NIVEL DE RIESGO DE
+VIOLENCIA DE GÉNERO (LEY ORGÁNICA 1/2004), LA GESTIÓN DE LA SEGURIDAD DE LAS
+VÍCTIMAS Y SEGUIMIENTO DE LOS CASOS A TRAVÉS DEL SISTEMA DE SEGUIMIENTO
+INTEGRAL DE LOS CASOS DE VIOLENCIA DE GÉNERO (SISTEMA VIOGÉN).
+En el marco de lo establecido en la Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de
+Protección Integral contra la Violencia de Género, el Consejo de Ministros aprobó en las
+reuniones de 15 de diciembre de 2006 y 22 de junio de 2007 sendos acuerdos en los que se
+establecieron un conjunto de medidas urgentes para luchar contra la violencia de género, entre
+las que destacó la elaboración, por parte de esta Secretaria de Estado de Seguridad, de un
+Protocolo de valoración de riesgo de la mujer víctima para su uso por parte de las Fuerzas y
+Cuerpos de Seguridad.
+Con base a lo establecido en dichos acuerdos, la Instrucción 10/2007, de 10 de julio, de esta
+Secretaría de Estado, aprobó el primer Protocolo para la valoración policial del nivel de riesgo
+de violencia contra la mujer, que fue posteriormente modificado por las Instrucciones 14/2007
+y 5/2008 y, finalmente, por la Instrucción 7/2016, de este centro directivo, vigente hasta la
+actualidad.
+En virtud de todo ello, el Ministerio del Interior, a través de esta Secretaría de Estado de
+Seguridad, creó y puso en marcha en julio de 2007 el Sistema de Seguimiento Integral de los
+casos de Violencia de Género (Sistema VioGén), dotándolo de los oportunos Formularios para
+practicar y administrar la evaluaciones de riesgo de la mujer víctima, así como de las
+funcionalidades precisas para llevar a cabo el seguimiento de dichos Casos y la implementación
+de las medidas de seguridad y protección policial acordes con los niveles de riesgo resultantes.
+De acuerdo con lo establecido en el artículo 31 de la citada Ley Orgánica 1/2004, el objetivo de
+los sucesivo Protocolos de valoración policial del riesgo de la mujer en los casos de violencia de
+género no es otro que el de establecer, desde el mismo momento en que los agentes policiales
+conocen un caso de violencia de género, cuál es la intensidad y las circunstancias del nivel de
+riesgo de nueva violencia que soporta la mujer víctima para, en su virtud, implementar las
+oportunas medidas policiales de protección y asistencia a la misma. Nivel de riesgo que,
+además, será preceptivo reevaluar periódicamente, y de manera especial, cuando se
+modifiquen las circunstancias inicialmente valoradas o se tenga conocimiento de nuevos
+hechos, circunstancias o antecedentes.
+Por lo demás, el artículo 282 de la Ley de Enjuiciamiento Criminal dispone como deber general
+para la policía judicial que cuando las víctimas entren en contacto con los agentes policiales,
+estos, además de cumplir con los deberes de información que la ley determina, llevarán a cabo
+una valoración de las circunstancias particulares de las víctimas para determinar
+provisionalmente qué medidas de protección deben ser adoptadas al objeto de garantizarles
+=========== PDF PAGE 2 ===========
+SECRETARÍA DE ESTADO
+2
+A MINISTERIO DE SEGURIDAD
+e 5 DEL INTERIOR
+2 = SECRETARIA DE ESTADO
+una protección adecuada, sin perjuicio de la decisión final que corresponderá adoptar al Juez o
+Tribunal.
+Desde la entrada en funcionamiento del Sistema de Seguimiento Integral de los Casos de
+Violencia de Género en julio de 2007 y hasta la fecha, casi 540.000 mujeres víctimas de
+violencia de género han sido valoradas y atendidas a través de dicho Sistema, por alguno de los
+más de 25.000 agentes policiales formados y habilitados en el mismo -tanto de la Policía
+Nacional, la Guardia Civil, como de Cuerpos de Policía Autonómicos o Locales—. Y de dicha
+interacción han resultado un total hasta la fecha de casi 3,6 millones de evaluaciones policiales
+de riesgo de dichas mujeres víctimas. Estas cifras ponen en valor tanto el compromiso del
+Gobierno y de este Ministerio del Interior, como el esfuerzo de los actores policiales en la
+asistencia, valoración y protección eficaz de las mujeres víctimas de violencia de género y, por
+tanto, su contribución en la lucha y la erradicación de esta abominable lacra de la sociedad.
+De toda la experiencia y las buenas prácticas acumuladas a través del Sistema VioGén, se han
+seguido mejoras sucesivas tanto en los Formularios y herramientas para la valoración del
+riesgo, como en el perfeccionamiento de los necesarios y sucesivos Protocolos para la
+valoración policial del nivel de riesgo de violencia de género y de gestión de la Seguridad de las
+Víctimas. Protocolos que establecen que los agentes policiales que instruyan las diligencias o el
+atestado policial realizarán la primera evaluación de riesgo de violencia sobre la mujer víctima a
+través de los Formularios alojados en el Sistema VioGén, aplicando de forma inmediata las
+medidas de protección policial que correspondan a cada nivel de riesgo. Nivel de riesgo que
+podrá ser modificado al alza por los agentes actuantes si, atendiendo a indicios o informaciones
+que, a su entender, no se han ponderado adecuadamente en los indicadores del Formulario de
+valoración del Sistema, resultase necesario para una mejor protección de la mujer víctima. De
+todo ello se dará cuenta a la autoridad judicial y, en su caso, al Ministerio Fiscal.
+Merced a toda esa experiencia acumulada, esta Secretaría de Estado ha presentado
+recientemente una nueva versión de los Formularios de Evaluación de Riesgo, que ya han sido
+implementados en el Sistema VioGén (formularios VPR y VPER, versión 5.0) y que cumplen con
+las siguientes funciones:
+e Mejorar en la predicción de reincidencia de nuevos episodios de violencia.
+e Identificar y alertar ante la Autoridad judicial y el Ministerio fiscal de, por un lado, los
+Casos de riesgo de especial relevancia por cuanto son susceptibles de evolucionar en
+violencia más grave, incluso la muerte de la mujer víctima; y, por otro, de los Casos con
+menores a cargo de la víctima en posible situación de vulnerabilidad.
+Todas estas novedades técnicas, procedimentales y operativas aconsejaban la elaboración y
+aprobación de un nuevo Protocolo para la valoración policial del nivel de riesgo de violencia
+de género (LO 1/2004), la gestión de la seguridad de las víctimas y el seguimiento de los
+Casos a través del Sistema de seguimiento integral de los Casos de violencia de género
+(Sistema VioGén).
+=========== PDF PAGE 3 ===========
+SECRETARÍA DE ESTADO
+2
+5 2 MINISTERIO DE SEGURIDAD
+a a RETO SECRETARIA DE ESTADO
+Protocolo en cuya redacción han participado todos los operadores e instituciones incluidas en
+el Sistema VioGén, bajo la coordinación del Área de Violencia de Género del Gabinete de
+Coordinación y Estudios de esta Secretaría de Estado de Seguridad.
+Por todo lo anterior, la presente Instrucción persigue acometer las siguientes tareas:
+1. Poner en marcha el nuevo Protocolo en esta materia, que permita un mejor conocimiento
+y una eficaz implementación y administración de los nuevos formularios VPR y VPER
+(versión 5.0) de evaluación de la mujer víctima de violencia de género.
+2. Abordar, clarificar y simplificar algunas cuestiones que afectan diariamente a las unidades
+policiales, tales como el tratamiento específico de ciertos Casos de violencia de género, la
+aplicación de las medidas policiales de protección de obligado cumplimiento según cada
+nivel de riesgo, así como la elaboración del Plan de Seguridad Personalizado (PSP).
+3. Impartir pautas concretas para la adecuada creación, actualización y gestión de los Casos
+de violencia de género en el Sistema VioGén por parte de FCSE, ajustadas a los estándares
+fijados por la normativa reguladora de aplicación a la protección de datos de carácter
+personal, máxime cuando muchos de los datos tratados son considerados categorías
+especiales.
+En virtud de lo expuesto, y en ejercicio de las atribuciones conferidas a esta Secretaría de
+Estado de Seguridad por el artículo 62 de la Ley 40/2015, de 1 de octubre, y específicamente
+por el artículo 2 del Real Decreto 952/2018, de 27 de julio, por el que se desarrolla la estructura
+orgánica básica del Ministerio del Interior, se dictan las siguientes
+INSTRUCCIONES:
+PRIMERA.- Aprobación del “Protocolo para la valoración policial del nivel de riesgo de violencia
+de género (en los supuestos de la LO 1/2004) y de gestión de la seguridad de las víctimas”.
+Se aprueba el Protocolo para la valoración policial del nivel de riesgo de violencia de género (en los
+supuestos de la LO 1/2004) y de gestión de la seguridad de las víctimas, al que acompañan: Adjunto
+1 “Medidas policiales de protección para cada nivel de riesgo” y Adjunto 2 “Plan de Seguridad
+Personalizado”.
+SEGUNDA.- Protección de datos de carácter personal.
+El tratamiento de los datos de carácter personal se adaptará a la normativa reguladora que les sea
+de aplicación, especialmente se tendrán en cuenta las prescripciones necesarias para el tratamiento
+de las categorías especiales de datos personales.
+=========== PDF PAGE 4 ===========
+SECRETARÍA DE ESTADO
+ES
+4 MINISTERIO DE SEGURIDAD
+a PA PELANTERIR SECRETARIA DE ESTADO
+TERCERA.- Publicación y efectos.
+La presente Instrucción será publicada en la Orden General de la Dirección General de la Policía y en
+el Boletín Oficial de la Guardia Civil, resultando efectiva desde el día 13 de Marzo de 2019.
+Quedan sin efecto cuantas disposiciones de igual o inferior rango se opongan a lo establecido en la
+presente.
+Madrid, 6 de marzo de 2019
+LA SECRETARIA DE ESTADO DE SEGURIDAD
+SR. DIRECTOR GENERAL DE LA POLICÍA.
+SR. DIRECTOR GENERAL DE LA GUARDIA CIVIL.
+SR. DIRECTOR DEL GABINETE DE COORDINACIÓN Y ESTUDIOS.
+=========== PDF PAGE 5 ===========
+SECRETARÍA DE ESTADO
+1]
+5 3 MINISTERIO DE SEGURIDAD
+a a e SECRETARIA DE ESTADO
+PROTOCOLO PARA LA VALORACIÓN POLICIAL DEL NIVEL DE RIESGO DE VIOLENCIA DE GÉNERO (EN
+LOS SUPUESTOS DE LA LO 1/2004 DE 28 DE DICIEMBRE), DE GESTIÓN DE LA SEGURIDAD DE LAS
+VICTIMAS Y SEGUIMIENTO DE LOS CASOS A TRAVÉS DEL SISTEMA DE SEGUIMIENTO INTEGRAL DE
+LOS CASOS DE VIOLENCIA DE GÉNERO (SISTEMA VIOGÉN).
+CUESTIONES PRELIMINARES.-
+El presente Protocolo persigue el objetivo de regular la articulación de medidas policiales de
+protección a mujeres víctimas de violencia y menores a su cargo, conforme a lo establecido en la LO
+1/2004 y de los menores a su cargo.
+A. Siempre que se tenga conocimiento de un caso de violencia de género, la actividad policial
+se dirigirá a investigar y determinar:
+a) Los factores referidos a la violencia, actual y pasada, del tipo que sea, sufrida por la
+víctima.
+b) La relación víctima-agresor, actual o pasada.
+c) Los antecedentes y circunstancias de todo tipo referidas al agresor y su entorno.
+d) Las circunstancias personales, familiares, sociales, económicas y laborales de la
+víctima.
+e) La retirada de denuncias, reanudación de la convivencia y/o, desistimiento o renuncia
+de la víctima a su protección, así como cualquier otra circunstancia que afecte
+sustancialmente al Caso.
+Toda esta información es imprescindible para poder concretar el grado o nivel de riesgo de
+que se produzca una nueva agresión contra la víctima, así como para determinar y articular
+las medidas policiales de protección que deben ser adoptadas, para ella y menores a su
+cargo, siempre de manera personalizada e individual.
+B. En el desarrollo de estas actuaciones, se recabará la información necesaria de todos los
+actores que la puedan aportar con la mayor premura y precisión posibles, al objeto de que
+las medidas policiales de protección a adoptar resulten efectivas y adecuadas.
+C. Cuando los Cuerpos de Seguridad tengan conocimiento o suficientes indicios de hechos que
+pudiesen constituir un delito relacionado con la violencia de género, se realizarán cuantas
+gestiones de investigación resulten necesarias para esclarecer lo sucedido. En caso de no
+contar con denuncia de la víctima o de cualquier otra persona, se procederá igualmente de
+oficio, llevando a cabo las mismas actuaciones o diligencias, así como la valoración policial
+del riesgo. Estos supuestos de ausencia de denuncia deben hacerse constar expresamente a
+la Autoridad Judicial y Fiscal.
+=========== PDF PAGE 6 ===========
+SECRETARÍA DE ESTADO
+E]
+5 p MINISTERIO DE SEGURIDAD
+a = DEL INTERIOR SECRETARIA DE ESTADO
+D. En la actualidad, muchos delitos de violencia de género, se cometen, total o parcialmente, a
+través de las nuevas tecnologías de la información y comunicación — “violencia de género
+digital”. Cuando se detecten este tipo de conductas (amenazas, coacciones, acoso, etc...), se
+pondrá especial atención en la tramitación de los atestados siempre conforme al presente
+Protocolo, incluyendo la valoración policial de riesgo. En estos supuestos será preceptivo, en
+el tratamiento de las evidencias digitales, (mecanismo probatorio de relevancia en esta
+modalidad delictiva), que se observen todas las garantías y se adopten las medidas
+oportunas para asegurar su adecuada recogida, preservación y custodia que permita su
+validación en el proceso judicial como elemento de prueba.
+E. Entodos los casos de violencia de género, la valoración del nivel de riesgo de nueva violencia
+contra la mujer (Valoración Policial del Riesgo, VPR) y su evolución (Valoración Policial de la
+Evolución del Riesgo, VPER) se realizará empleando los Formularios normalizados
+aprobados al efecto por la Secretaría de Estado de Seguridad, y disponibles en el Sistema de
+Seguimiento Integral para los casos de violencia de género (Sistema VioGén).
+F. En aquellos casos de homicidio u homicidio en grado de tentativa que se engloben en
+supuestos de violencia de género, las actuaciones policiales se dirigirán a analizar
+pormenorizadamente todas las circunstancias concurrentes, siendo preceptivo que, en el
+menor tiempo posible, la unidad central especializada correspondiente incorpore al Sistema
+VioGén el Informe relativo al Caso, conteniendo toda la información recopilada y analizada.
+G. Las Fuerzas y Cuerpos de Seguridad deberán tener conocimiento de las entidades y recursos
+sociales (ámbito Servicios Sociales) y oficinas de atención a víctimas, (ámbito Justicia) que se
+encuentran disponibles en sus respectivas demarcaciones de competencia, al objeto de
+poder facilitar a las mismas el acceso a los recursos de apoyo que puedan necesitar.
+1. ESTIMACIÓN INICIAL DE LA SITUACIÓN DE RIESGO.
+1.11. La primera evaluación del riesgo de nueva violencia la realizarán los agentes policiales
+que instruyan las diligencias y se ocupen de las primeras investigaciones. La
+intervención experta, formada, proactiva y rigurosa de dichos agentes es
+imprescindible en el proceso de valoración.
+1.2. Para esta primera evaluación los evaluadores utilizarán el Formulario VPR, que
+contempla factores de riesgo de tipo histórico que, por haberse producido en el
+pasado, permiten realizar estimaciones futuras. En el Sistema VioGén se incluirán a
+disposición de todos los usuarios, las instrucciones oportunas de carácter explicativo
+correspondientes a los factores de riesgo, así como conocimientos técnicos
+necesarios para su correcta cumplimentación _ (Guía de Procedimiento).
+=========== PDF PAGE 7 ===========
+SECRETARÍA DE ESTADO
+2
+3.1 MINISTERIO DE SEGURIDAD
+e
+y b DEL INTERIOR SECRETARIA DE ESTADO
+1.3. El Formulario VPR se cumplimentará por los agentes policiales actuantes, nunca por
+la víctima ni otras personas implicadas y sólo cuando se haya recopilado información
+suficiente y contrastada de todas las fuentes disponibles, sobre el supuesto concreto.
+En ningún caso una víctima abandonará las dependencias policiales sin haber sido
+valorada ni se le hayan asignado las medidas policiales de protección que
+correspondan conforme al nivel de riesgo resultante.
+14. Se aprovechará la instrucción de las diligencias, para entre otras cosas, acceder a las
+distintas fuentes de información (víctima, autor, vecinos, familiares, testigos,
+informes técnicos), consultar las bases de datos disponibles al efecto, identificar
+adecuadamente a víctima y agresor, así como para poder indagar en los factores de
+riesgo, cumplimentando la VPR cuantas veces sea necesario hasta la remisión final
+del atestado a la autoridad judicial. La última y definitiva VPR será la única incluida en
+diligencias y quedará como consolidada en el Sistema VioGén.
+1.55. Durante el proceso de valoración no se realizarán preguntas directas a la víctima,
+salvo en supuestos muy concretos y siempre que falte algún dato muy específico que
+sólo pueda recabarse por esta vía. En estos supuestos, se prestará especial cuidado
+en la formulación de las preguntas imprescindibles, todo ello a fin de:
+i. Evitar doble victimización en el momento de recabar información muy sensible y
+personal de la víctima o su agresor.
+ii, Evitar sugerencias que conduzcan a desviaciones o sesgos en las respuestas.
+1.6. El Sistema VioGén, una vez practicada la valoración en el Caso concreto, asignará
+automáticamente uno de los siguientes niveles de riesgo: “no apreciado”, “bajo”,
+“medio”, “alto” o “extremo”, que podrá ser modificado por los agentes al alza si, a su
+juicio y atendiendo a indicios que no se reflejen en los indicadores de riesgo del
+Formulario de valoración, consideran que resulta necesario para una mejor
+protección de la víctima.
+1.7. El resultado de la valoración policial del riesgo Formulario VPR se comunicará a la
+Autoridad Judicial y Fiscal, en forma de Informe automatizado que genera el propio
+Sistema. Dicho Informe, con todo su contenido, se incluirá en el Atestado policial y
+recogerá, sin necesidad de intervención alguna por parte del agente actuante:
+i. Siempre la información general sobre el Caso, incluyendo la relación de los
+indicadores de riesgo (marcados Si/No) y el resultado de la valoración.
+ii Excepcionalmente, diligencias adicionales que pueden ser de dos tipos:
+a) Diligencia en la que el propio Sistema destaca el Caso por considerarlo
+especialmente relevante, se informa a la Autoridad judicial en este sentido y se
+recomienda la práctica de evaluaciones adicionales en el ámbito judicial.
+=========== PDF PAGE 8 ===========
+SECRETARÍA DE ESTADO
+e z
+ny MINISTERIO DE SEGURIDAD
+e 5% DEL INTERIOR
+£ a SECRETARIA DE ESTADO
+b) Diligencia en la que el propio Sistema destaca el Caso por incluir menores a
+cargo de la víctima que, en base a una combinación de indicadores concretos
+marcados, podrían encontrarse en situación de vulnerabilidad, por lo que se
+informa a la Autoridad Judicial en este sentido y se recomienda la práctica de
+evaluaciones adicionales en el ámbito judicial, en un contexto más amplio,
+incluyendo la unidad familiar.
+2. GESTIÓN DE LOS CASOS VdG EN EL SISTEMA VIOGEN.
+ALTA / ACTUALIZACIÓN DEL CASO Y REASIGNACIÓN DEL MISMO:
+2.1. En el momento adecuado, durante el proceso de recepción de la
+denuncia/conocimiento del hecho por violencia de género, tras la identificación de
+víctima y agresor, será preceptiva la consulta al Sistema VioGén para determinar si
+agresor y/o víctima estuvieran dados de alta previamente en el Sistema.
+i. Si ambos estuvieran previamente en el Sistema, en el contexto de un mismo
+Caso (AGRESOR Y VÍCTIMA coinciden), se procederá a la ACTUALIZACION del
+mismo.
+ii. De no estar ambos en el Sistema en un mismo Caso, se procederá al ALTA del
+mismo solo tras haber recabado toda la información posible sobre identificación
+de agresor y víctima, evitando tanto dar de ALTA como ACTUALIZAR en el
+Sistema víctimas o agresores con datos de identificación incompletos que, no
+obstante, figuran identificados en el Atestado policial.
+2.2. Con posterioridad, la unidad de asignación del Caso se responsabilizará de mantener
+la información del mismo debidamente actualizada en el Sistema VioGén.
+2.3. Las unidades policiales deberán asegurar que se encuentran debidamente
+actualizadas en VioGén:
+i. todas las actuaciones policiales de interés que lleven a cabo en relación con
+dichos Casos, la víctima o el agresor.
+ii Todos los hechos relevantes de los que tengan conocimiento y sobre los que no
+obre información previa en el Sistema, en tanto en cuanto afecten directamente
+a la seguridad de la víctima, como podrían ser: nuevas resoluciones judiciales
+penales o civiles o circunstancias relevantes relativas a agresor y/ o víctima y
+entorno.
+2.4. El traspaso de actuaciones y reasignación de casos entre diferentes Cuerpos y/o
+unidades policiales se realizará a través del Sistema VioGén, a la mayor brevedad
+posible. Así, la unidad policial que pretenda reasignar el Caso a otra, en base a los
+criterios establecidos en el Sistema, llevará necesariamente a cabo las
+comprobaciones necesarias, en coordinación con la unidad receptora, al objeto de
+=========== PDF PAGE 9 ===========
+SECRETARÍA DE ESTADO
+hl h MINISTERIO DE SEGURIDAD
+Í h DEL INTERIOR SECRETARIA DE ESTADO
+confirmar que efectivamente ésta, continuará el seguimiento del Caso y protección
+de la víctima.
+INACTIVACIÓN DE CASOS:
+En el Sistema VioGén los Casos pueden encontrarse en alguna de estas dos situaciones, variando
+estos de una a otra dependiendo del momento y circunstancias concretas:
+ACTIVOS: Sometidos a control policial directo, siendo de aplicación las medidas policiales de
+protección correspondientes al nivel de riesgo.
+INACTIVOS: No sometidos a control policial directo. Un Caso INACTIVO debe poder ACTIVARSE
+en cualquier momento si las circunstancias lo aconsejan.
+A continuación se detallan las reglas para INACTIVACIÓN que serán de aplicación para todos los
+Casos durante todos los procesos por los que estos atraviesen.
+» tt,
+2.5. Los niveles de riesgo “bajo”, “medio”, “alto” y “extremo” implicarán, con carácter
+general, que el Caso se encuentre en la situación de ACTIVO en el Sistema VioGén.
+2.6. Una Unidad policial podrá INACTIVAR: con carácter general Casos en nivel de riesgo
+“no apreciado” y excepcionalmente Casos en nivel de riesgo “bajo”, siempre que,
+para ambos supuestos, se den todas estas premisas:
+¡. — No tengan Medidas judiciales en vigor.
+ii. Las circunstancias concretas de los Casos, de las víctimas y/o de los agresores,
+no aconsejen lo contrario a juicio del evaluador.
+ii. Para los Casos con nivel de riesgo “bajo”, se haya contactado al menos una vez
+con la víctima y se haya efectuado una reevaluación del riesgo en los términos
+establecidos en el Apartado 5, punto 5.3, sin que este se haya elevado.
+2.7. Un Caso también podrá INACTIVARSE en VioGén, por un periodo de tiempo variable y
+con independencia del nivel de riesgo asociado, cuando concurra alguna
+circunstancia que imposibilite o haga innecesaria la protección de una víctima y/o
+impida de forma efectiva una nueva agresión: (no localización de la víctima durante
+mínimo UN mes a pesar de continuar gestiones para averiguar su paradero, la muerte
+de la víctima o del agresor, la salida al extranjero o internamiento en un centro de
+custodia/establecimiento penitenciario de cualquiera de ellos, o alguna otra
+circunstancia análoga que imposibilite o haga innecesaria la protección de la víctima
+o impida de forma efectiva una nueva agresión).
+En estos supuestos se especificarán en el Sistema VioGén la/s causas concreta/s de
+la INACTIVACIÓN.
+2.8. Finalmente un Caso podrá INACTIVARSE también, con independencia del nivel de
+riesgo asociado, en supuestos de renuncia voluntaria, manifiesta y reiterada de la
+9
+=========== PDF PAGE 10 ===========
+s
+e
+a
+SECRETARÍA DE ESTADO
+MINISTERIO DE SEGURIDAD
+DEL INTERIOR SECRETARIA DE ESTADO
+víctima a su protección, siempre que no cuente con Medidas Judiciales/Orden de
+Protección en vigor.
+En estos supuestos se elevará Informe al Ministerio Fiscal dando cuenta de todos los
+hechos y circunstancias del Caso que ponen de manifiesto dicha renuncia.
+Para todos los supuestos de INACTIVACIÓN, La unidad policial deberá REACTIVAR el
+Caso si fuera aconsejable por cambio en las circunstancias.
+3. GESTIÓN DE LA SEGURIDAD Y PROTECCIÓN DE LAS VÍCTIMAS.
+3.1. Cada uno de los niveles de riesgo llevará aparejadas medidas policiales para la
+protección y seguridad de las víctimas, que serán de aplicación obligatoria e
+inmediata, según lo establecido en el Anexo 1 del presente Protocolo. Dichas
+medidas se adaptarán a las circunstancias concretas del Caso, de tal manera que las
+mismas sean de aplicación personalizada e individual y se comunicarán a la víctima.
+3.2.  Sitras la primera actuación judicial se acordara alguna Medida de alejamiento/Orden
+de protección, esta será comunicada expresamente tanto a víctima como a agresor.
+Dicha comunicación incluirá la explicación concreta de la Medida acordada, alcance y
+consecuencias de su quebrantamiento. Puede ser recomendable que la unidad
+policial proporcione una copia en papel de las mismas a ambos, pudiendo igualmente
+estos firmar un documento acreditativo de su recepción.
+3.3. Buscando la participación activa de la propia víctima en su protección y la de los
+menores a su cargo, con ocasión de la primera VPER, se le proporcionará un Plan
+Personalizado de Seguridad Personalizado (en adelante PSP), disponible a través del
+Sistema VioGén.
+3.4. Los agentes actuantes, en el momento de realizar el PSP, desmarcarán aquellas
+Medidas de autoprotección o incluso Apartados (que contienen varias Medidas de
+autoprotección), que no procedan o no se ajusten a la víctima y/o circunstancias de
+su Caso en el momento concreto. En todo caso, la cumplimentación y obtención
+automatizada del PSP desde el Sistema VioGén se ajustará a las directrices contenidas
+en el Anexo 2 del presente Protocolo.
+4. CUESTIONES ESPECÍFICAS A TENER EN CUENTA EN LA GESTIÓN DE LA SEGURIDAD DE LAS
+VÍCTIMAS:
+4.1. Protección policial con Medidas Judiciales: Cuando la Autoridad Judicial haya dictado
+una Orden de Protección con Medidas de alejamiento, o cualquier otra Medida
+cautelar o penal de carácter personal, al objeto de garantizar la seguridad de la
+víctima, el Caso se mantendrá ACTIVO en el Sistema, siendo por tanto de aplicación
+obligatoria las medidas policiales de protección correspondientes al nivel de riesgo
+resultante, incluyendo velar por el cumplimiento de las Medidas judiciales dictadas.
+10
+=========== PDF PAGE 11 ===========
+SECRETARÍA DE ESTADO
+*
+5 rd MINISTERIO DE SEGURIDAD
+a A DEL INTERIOR SECRETARIA DE ESTADO
+4.2. Protección policial sin Medidas Judiciales: Se aplicarán obligatoriamente las medidas
+policiales de protección asociadas al nivel de riesgo resultante en el Caso. En este
+punto, la unidad policial deberá tener en cuenta lo siguiente:
+” 4
+¡. Si se ha apreciado riesgo “medio”, “alto” o “extremo”, y la Autoridad Judicial ha
+desestimado la Orden de Alejamiento o de Protección, se aplicarán las medidas
+policiales de protección que correspondan a cada nivel de riesgo, debiendo el
+Caso permanecer ACTIVO en el Sistema VioGén.
+íñí. Para el resto de los Casos sin Medidas Judiciales en niveles de riesgo “no
+apreciado” y “bajo, pueden ser de aplicación las reglas de INACTIVACIÓN de
+Casos conforme a lo establecido en el apartado 2, punto 2.6, recordando que la
+unidad policial deberá ACTIVAR el Caso si fuera aconsejable por cambio en las
+circunstancias.
+4.3. Cuando no sea posible para los agentes actuantes la aplicación de las medidas
+policiales de protección acordes al nivel del riesgo, concretamente en aquellos casos:
+i. — En los que sea la propia víctima la que voluntariamente y de forma manifiesta
+y reiterada renuncia a su protección.
+ii  Enlos que sea la propia víctima la que, sin renunciar de forma manifiesta a su
+protección, dificulta e incluso imposibilita dicha tarea.
+Se procederá a informar detalladamente de estos extremos a la Autoridad Judicial y
+Fiscal, haciendo constar claramente las circunstancias descritas. En todo caso se
+promoverá que entren en contacto con la víctima otras instituciones como oficinas
+de atención a víctimas del delito (ámbito Justicia) o servicios sociales y asistenciales.
+4.4. Todas Las medidas policiales de protección contenidas en el Anexo 1 asignadas por
+niveles de riesgo, son de obligado cumplimiento. Así mismo, junto con las referidas,
+podrán ser de aplicación cualesquiera otras que a juicio de los agentes, contribuyan
+eficazmente a la protección.
+4.5 Cuando las medidas policiales de protección aplicables al nivel de riesgo de un Caso
+sobrepasen la capacidad decisoria y operativa del evaluador y/o agentes gestores, se
+pondrá el hecho en conocimiento de los responsables y/o quienes dispusieran de la
+capacidad necesaria para la asignación de los recursos humanos y materiales
+necesarios. Esta incidencia debe hacerse constar en el Sistema VioGén
+4.6 Cuando la aplicación efectiva de las medidas policiales de protección, corresponda a
+efectivos adscritos a Unidades o Plantillas diferentes de aquellas que han evaluado el
+riesgo y/o gestionan el Caso, se les proporcionará la información y documentación
+necesaria relativa al caso de violencia de género concreto para poder desarrollar
+dichas medidas. En todo caso, la información deberá además encontrarse
+adecuadamente registrada y actualizada en el Sistema VioGén.
+11
+=========== PDF PAGE 12 ===========
+SECRETARÍA DE ESTADO
+2
+5 A MINISTERIO DE SEGURIDAD
+= A DEL INTERIOR SECRETARIA DE ESTADO
+5. EVOLUCIÓN DEL NIVEL DE RIESGO.
+FORMULARIOS VPER
+5.1. El seguimiento de la evolución de los casos se realizará siempre con el Formulario
+VPER en sus dos modalidades, VPER-S y VPER-C.
+5.2. Estos Formularios se encuentran disponibles en el Sistema VioGén, en la
+modalidad que proceda: “con incidencia” o “sin incidencia”:
+¡. — VPER-C (con incidencia): Se utilizará cuando se produzca un hecho significativo,
+como una nueva denuncia (reincidencia policial) o un quebrantamiento.
+ii.  VPER-S (sin incidencia): Utilizándose siempre que, tras la denuncia, el tiempo
+transcurra sin que se produzcan nuevos hechos significativos. De esta forma
+también se podrá cumplimentar una evaluación periódica VPER-S cuando se
+haya recopilado nueva información sobre la víctima, el agresor o circunstancias
+del caso que puedan afectar a la valoración del riesgo, así como a solicitud de la
+Autoridad Judicial o Fiscal.
+LA PRIMERA VPER:
+» mt mit
+5.3. Para los casos en niveles de riesgo: “bajo”, “medio”, “alto” y “extremo”, la primera
+VPER se llevará a cabo una vez se desarrolle la primera actuación judicial, del tipo que
+sea, en la que se resuelva la solicitud de Orden de Alejamiento y/o Medida de
+Protección, en todo caso en un plazo máximo de SIETE días tras la VPR.
+5.4. Asímismo será de aplicación el punto 5.3 para aquellos casos con nivel de riesgo “no
+apreciado” que, tras la actuación judicial referida, pasen a contar con Medidas
+Judiciales/Orden de Protección.
+5.5. Excepcionalmente y sólo para los casos destacados como especialmente relevantes,
+cuyo Informe automatizado VPR lleva aparejado una Diligencia adicional (Apartado
+1, punto 1.7 ¡i a) del presente Protocolo, la primera VPER se llevará a cabo cuando
+hayan transcurrido, al menos, SIETE días desde la VPR. El motivo es mantener en el
+mismo nivel de riesgo el caso durante ese periodo al objeto de:
+i. Esperar la decisión de la Autoridad Judicial sobre la práctica de evaluación
+forense adicional.
+ii En caso afirmativo, que dicha evaluación forense se pueda llevar materialmente
+a cabo.
+iii. Posibilitar que finalmente su resultado y conclusiones puedan ser conocidos por
+la unidad policial.
+5.6. En la primera VPER se informará de nuevo a la víctima (ver Apartado 3, punto 3.2) de
+la adopción por parte de la autoridad judicial de, en su caso, Medida Judicial/Orden
+de Protección, su contenido y alcance, así como los recursos asistenciales (ámbito
+12
+=========== PDF PAGE 13 ===========
+SECRETARÍA DE ESTADO
+» A MINISTERIO DE SEGURIDAD
+e $ DELINTERIOR
+An A
+SECRETARIA DE ESTADO
+Servicios Sociales) y de oficinas de atención a víctimas del delito (ámbito Justicia) de
+los que dispone en su demarcación.
+5.7. Una vez practicada la primera VPER se proporcionará a la víctima su Plan de
+Seguridad Personalizado, adaptado a sus circunstancias especificadas en ese
+momento, según lo contenido en el Anexo 2 del presente Protocolo.
+VPER EN SUPUESTOS DE REACTIVACIÓN DE CASOS:
+5.8. Si una víctima que ya se encuentra en el Sistema VioGén en caso INACTIVO
+presentara una nueva denuncia contra el mismo Agresor, el caso se REACTIVARÁ en
+los siguientes términos:
+¡. Si la nueva denuncia llegara después de un periodo de SEIS meses o más desde
+la última VALORACIÓN, procederá valorar de nuevo a la víctima con el
+Formulario VPR.
+ii En caso de que haya transcurrido un periodo inferior a SEIS meses desde la
+última VALORACIÓN, procederá una VPER-C,
+5.9. Cuando a juicio de la unidad policial que gestiona el Caso proceda la
+REACTIVACIÓN de un caso INACTIVO por motivo distinto de denuncia por nuevo
+hecho violento, (salida de prisión o comienzo de permisos penitenciarios del
+agresor, regreso a España del agresor tras estancia en el extranjero, o cualquier
+otro idóneo a juicio de la unidad referida), con independencia del tiempo
+transcurrido en INACTIVO, se llevará a cabo la ACTIVACIÓN mediante la realización
+de una VPER-S.
+POSTERIORES VPER:
+Después de la primera VPER realizada en los términos establecidos en los puntos 5.3 a 5.5
+del presente Apartado, si el caso evoluciona sin incidentes, se realizarán las siguientes valoraciones
+VPER-S en tanto en cuanto permanezca ACTIVO:
+i. — Nivel “extremo”, antes de las setenta y dos horas.
+ii, Nivel “alto”, antes de los siete días.
+ii. Nivel “medio”, antes de los treinta días.
+iv. Nivel “bajo”, antes de los sesenta días.
+v. Nivel “no apreciado”, antes de los noventa días.
+RESULTADO DE LA VPER Y COMUNICACIÓN A LA AUTORIDAD JUDICIAL/FISCAL:
+5.10. Tras la práctica de una VPER, el Sistema VioGén volverá a asignar
+» e,
+automáticamente uno de los siguientes niveles: “no apreciado”, “bajo”, “medio”,
+13
+=========== PDF PAGE 14 ===========
+SECRETARÍA DE ESTADO
+MINISTERIO DE SEGURIDAD
+DEL INTERIOR SECRETARIA DE ESTADO
+“alto” o “extremo”, que llevarán aparejadas las oportunas medidas policiales de
+protección (recogidas en el Anexo 1 del presente Protocolo), de aplicación
+obligatoria e inmediata y de las que se informará a la víctima. Este revisado nivel
+de riesgo, igualmente podrá ser modificado por los agentes al alza si, atendiendo a
+otros indicios que no estén reflejados en los indicadores del Sistema, considera
+que resulta necesario para una mejor protección.
+5.11. El resultado de la VPER, e Informe automatizado que genera el propio Sistema, se
+comunicará a la Autoridad Judicial y Fiscal, de manera individualizada, cuando
+exista variación en el riesgo, haciendo constar adecuadamente en el oficio la
+referencia judicial del caso (Diligencias Previas, referencia de Medidas etc.) en
+aquellos casos en que dicha VPER no dé lugar a la instrucción de nuevas
+Diligencias, esto es la VPER-S.
+5.12. En el caso de que la VPER diera lugar a unas nuevas Diligencias (VPER-C), el
+resultado de dicha valoración e Informe automatizado que genera el propio
+Sistema, se incluirá en las diligencias policiales.
+14
+=========== PDF PAGE 15 ===========
+SECRETARÍA DE ESTADO
+» 4 MINISTERIO DE SEGURIDAD
+4 h DEL INTERIOR SECRETARIA DE ESTADO
+ANEXO 1
+MEDIDAS POLICIALES DE PROTECCIÓN A ADOPTAR PARA CADA NIVEL DE RIESGO
+»” a, ” ue,
+Los niveles de riesgo “bajo”, “medio”, “alto” y “extremo” conllevarán, además de sus
+medidas de protección específicas, la aplicación de las previstas para los niveles anteriores
+que no se encuentren implícitas en ellas.
+Además de las medidas obligatorias previstas en el presente Anexo 1, para cada nivel
+de riesgo, podrá ser implementada cualquier otra que a juicio de la unidad policial sea
+susceptible de aplicación.
+NIVEL DE RIESGO MEDIDAS DE PROTECCIÓN OBLIGATORIAS
+DE GESTIÓN DEL CASO EN VIOGÉN:
+- La Unidad policial especializada o la que gestione el Caso, se ocupará de
+que los datos contenidos en el mismo sean correctos y se encuentren
+debidamente actualizados, especialmente identificación correcta,
+completa y actualizada de AGRESOR y VÍCTIMA, así como contacto y
+domicilio de ambos y demás datos de interés. Igualmente deberá evitar y
+en su caso subsanar duplicidades de Casos, así como de IDs de VÍCTIMAS y
+AGRESORES principalmente, al objeto de garantizar una adecuada
+protección de las primeras. Toda esta información es la que conforma la
+Ficha dossier extraíble desde el Sistema VioGén.
+DE TIPO INFORMATIVO Y ASISTENCIAL:
+PARA LA VÍCTIMA:
+- Las mismas, de tipo orientativo, informativo y asistencial que para
+cualquier otro ciudadano. Especialmente información detallada de los
+recursos disponibles en su demarcación, tanto oficinas de atención a
+NO víctimas del delito (ámbito Justicia), como servicios sociales.
+APRECIADO |- Facilitar recomendaciones en materia de autoprotección, pudiendo servir
+de orientación aquellas incluidas en el PSP y que se adapten a las
+circunstancias concretas de la víctima.
+15
+=========== PDF PAGE 16 ===========
+SECRETARÍA DE ESTADO
+MINISTERIO DE SEGURIDAD
+DEL INTERIOR SECRETARIA DE ESTADO
+DE TIPO INFORMATIVO Y ASISTENCIAL:
+PARA LA VÍCTIMA:
+- Facilitar a la víctima números de teléfono de contacto permanente (24
+horas) con las FFCCS de asignación del caso.
+- — Facilitar información precisa sobre el servicio de tele asistencia móvil.
+- Derivación de la víctima hacia oficinas de atención a víctimas del delito
+(ámbito Justicia) y servicios sociales que correspondan a su lugar de
+residencia, donde deben informarle, sobre todo, en relación con aquello
+que incida en su seguridad, en caso de que proceda: puntos de encuentro,
+casas de acogida, etc..
+DE TIPO OPERATIVO:
+PARA LA VÍCTIMA:
+- Contactos telefónicos y/o personales con la víctima. En el caso de
+contactos personales estos han de ser discretos, acordando con la víctima
+los mismos y la conveniencia de utilizar o no uniforme y/o vehículos con
+distintivos.
+- — Indagar con la víctima para conocer momento de recepción y contenido
+de resoluciones judiciales que sobre el Caso se hayan podido emitir en el
+ámbito civil: (régimen de custodia y visitas, pago prestación por
+separación en favor de víctima/menores, adjudicación de la vivienda a la
+víctima, etc...) que puedan repercutir en el grado de afectación/potencial
+peligrosidad del Agresor y por tanto en el contexto de la protección de la
+víctima.
+SOBRE EL AGRESOR:
+- Comunicación al agresor de que su Caso de violencia de género se
+encuentra sometido a control/protección policial y en su caso contenido y
+alcance de las Medidas Judiciales/Orden de Protección acordada.
+BAJO - Si el agresor tuviera licencia de armas, requerirle la entrega voluntaria de
+las armas (si tuviera) y permiso a la Unidad policial actuante.
+Posteriormente solicitar la retirada judicial de ambas.
+- En atención a las circunstancias del Caso, acordar el acompañamiento del
+agresor al domicilio de la víctima, para retirar sus efectos, en el caso de
+que el Juez acuerde su salida del mismo.
+- Revisar puntualmente la información penitenciaria en el Sistema VioGén,
+al objeto de conocer, si las tuviera, las salidas penitenciarias del agresor y
+contrastar dicha información con el Centro Penitenciario en aquellos
+16
+=========== PDF PAGE 17 ===========
+SECRETARÍA DE ESTADO
+5 A MINISTERIO DE SEGURIDAD
+a a DEL INTERIOR SECRETARIA DE ESTADO
+supuestos en que la misma suscite dudas.
+- El Sistema VioGén pone a disposición de los usuarios una Ficha dossier, en
+formato imprimible, que, a juicio de la Unidad policial gestora del Caso,
+siempre para garantizar un mejor control de agresor y seguridad de
+víctima, puede ser difundida a Unidades policiales de seguridad/patrullas
+de seguridad ciudadana.
+DE TIPO OPERATIVO:
+PARA LA VÍCTIMA
+- Entrevista personal con la víctima.
+- Si procede, en atención a las circunstancias del Caso, efectuar traslado de
+la víctima para ingreso en centro de acogida.
+- Control ocasional de la víctima en domicilio, lugar de trabajo y centros
+escolares de los menores en horarios de entrada y salida. Para llevar a
+cabo este control es recomendable entrevista con oficinas de atención a
+víctima del delito (ámbito Justicia) y/o servicios sociales que atiendan a la
+víctima, al objeto de identificar modos efectivos de protección.
+- Acompañamiento a la víctima en actuaciones de carácter judicial,
+asistencial o administrativo, cuando se considere que puede existir algún
+tipo de riesgo para ella.
+SOBRE EL AGRESOR
+-  Instar a Fiscalía el seguimiento obligatorio del agresor a través de la
+asignación de un dispositivo telemático de control.
+Comprobación periódica del cumplimiento por el agresor de las Medidas
+judiciales de protección impuestas, lo que incluirá control ocasional del
+mismo en domicilio, lugar de trabajo u otros.
+MEDIO
+- Comunicación/entrevista con el agresor en permisos penitenciarios y/o
+excarcelaciones para informarle de que su Caso se encuentra sometido a
+control/protección policial, así como para contrastar información sobre
+sus datos de contacto/localización actuales.
+DE TIPO OPERATIVO:
+PARA LA VICTIMA
+- En caso de no haberse podido localizar todavía al agresor, insistir a la
+víctima, para su más efectiva protección, en la posibilidad de traslado a
+centro de acogida, casa de un familiar o domicilio distinto.
+17
+=========== PDF PAGE 18 ===========
+SECRETARÍA DE ESTADO
+s
+55 hal MINISTERIO DE SEGURIDAD
+yo a DEL INTERIOR SECRETARIA DE ESTADO
+Control frecuente y aleatorio en domicilio y lugar de trabajo de la víctima
+y, si procede en centros escolares de los hijos a la entrada y salida y
+contactos con personas de su entorno para mejor protección.
+SOBRE EL AGRESOR
+- Control aleatorio de los movimientos del agresor y contactos esporádicos
+ALTO con personas que este frecuente o de su entorno.
+DE TIPO OPERATIVO:
+PARA LA VICTIMA
+- Protección permanente de la víctima hasta que el mismo agresor o sus
+circunstancias dejen de ser una amenaza inminente.
+- Si procede, vigilancia en centros escolares de los hijos de la víctima a la
+hora de entrada y salida.
+SOBRE EL AGRESOR
+EXTREMO
+- — Control intensivo de los movimientos del agresor hasta que este deje de
+ser una amenaza inminente para la seguridad de la víctima.
+18
+=========== PDF PAGE 19 ===========
+SECRETARÍA DE ESTADO
+A MINISTERIO DE SEGURIDAD
+4 he DEL INTERIOR SECRETARIA DE ESTADO
+ANEXO 2
+PLAN DE SEGURIDAD PERSONALIZADO PARA CADA VÍCTIMA CON MEDIDAS DE AUTOPROTECCIÓN
+(PSP)
+Nota:
+- El Plan de Seguridad Personalizado se extraerá por primera vez con la primera VPER,
+con independencia del nivel de riesgo. Es en este momento cuando, tras la celebración
+de la vista judicial en su caso, la salida o no del agresor del domicilio, la adopción o no
+de Medidas Judiciales etc... los agentes actuantes conocen los datos necesarios para la
+adecuada confección del PSP.
+- — El Plan de Seguridad Personalizado (PSP) se deberá confeccionar para cada víctima de
+forma individualizada, de tal manera que TODAS y CADA UNA de las Medidas que
+contiene son susceptibles de DESELECCIONARSE por los agentes intervinientes, bien el
+APARTADO entero, bien Medidas concretas dentro de cada APARTADO.
+- Los agentes actuantes deberán prestar especial atención a la hora de confeccionar el
+PSP DESELECCIONANDO aquellas opciones que: NO sean
+posibles/factibles/asumibles, adecuadas o idóneas para la víctima en concreto, en
+atención a sus particulares circunstancias, (características físicas, posible
+discapacidad, edad, SI TRABAJA O NO, SI TIENE o NO menores a su cargo, edades de
+estos, tipo de vivienda que habita, habilidad y frecuencia en el uso de redes sociales,
+nivel formativo en general, arraigo familiar y/o social, disponibilidad económica, etc...).
+- El PSP cobra fuerza y sentido como herramienta para autoprotección real de la
+víctima cuando este ha sido confeccionado adecuada, rigurosa y proactivamente por el
+agente interviniente y las Medidas de autoprotección que contiene guardan sentido y
+coherencia con el estilo de vida de la víctima en particular. En este sentido el PSP se
+encuentra disponible en VioGén en diferentes idiomas.
+- En posteriores VPER, los agentes actuantes podrán extraer de nuevo el PSP, si lo
+consideran necesario, en caso de que hayan variado las circunstancias y por tanto sea
+preciso DESELECCIONAR O SELECCIONAR de nuevo alguna/s de las Medida/s o
+APARTADOSS. De no haber cambios no será preciso extraer un nuevo PSP.
+19
+=========== PDF PAGE 20 ===========
+SECRETARÍA DE ESTADO
+, h1 MINISTERIO DE SEGURIDAD
+4 . 2 DEL INTERIOR SECRETARIA DE ESTADO
+Y” APARTADO 1:
+PORTAR SIEMPRE UN TELÉFONO MÓVIL
+Y 1.1 Cambiar el número de teléfono y solicitar a la compañía prestadora del servicio que sus
+datos no sean incluidos en ficheros ni guías de acceso público.
+y 1.2 Bloquear las llamadas y resto de comunicaciones con el agresor a través de cualquier
+aplicación o cuenta (whatsapp, RRSS, etc.)
+Y” 1.3 No atender llamadas de números desconocidos.
+Y 1.4 Tener siempre activada la geolocalización sólo en caso de que el agresor no conozca el
+nuevo número de móvil.
+Y 1.5 Guardar en el teléfono móvil o en papel los números de emergencia policiales en lugar
+preferente, así como 112, 091, 062 y 092, vinculados a teclas de marcación rápida en el caso de
+grabación en el móvil.
+Y 1.6 Guardar en el teléfono móvil o en papel los teléfonos de asistencia en la demarcación:
+unidad de violencia, oficina de atención a víctimas, casa de acogida, selección de asociación/es
+de víctimas, servicios médicos, así como cualquier otro de confianza.
+Y 1.7 Instalar la app AlertCops (del Ministerio del Interior) en el teléfono móvil y explorar su
+manejo en la opción específica VAG. También, cualquier otra aplicación similar operativa en su
+demarcación.
+Y” APARTADO 2:
+HACER UN USO SEGURO DE LAS NUEVAS TECNOLOGÍAS DE INFORMACIÓN Y
+COMUNICACIÓN Y REDES SOCIALES
+Y 2.1 Restringir acceso a su perfil/es.
+Y 2.2 Utilizar perfiles con “Nick” en lugar de mostrar el auténtico nombre.
+Y 2.3 No aceptar solicitudes de acceso o de amistad de descocidos o del entorno del agresor.
+Y 2.4 Evitar difundir información personal en sus perfiles, (fotografías, vídeos, localizaciones,
+amistades, etc.) e informar a sus contactos del riesgo de que ellos a su vez difundan dicha
+información.
+20
+=========== PDF PAGE 21 ===========
+SECRETARÍA DE ESTADO
+» A MINISTERIO DE SEGURIDAD
+a DEL INTERIOR SECRETARIA DE ESTADO
+APARTADO 3:
+MEDIDAS DE AUTOPROTECCÓN PERSONAL CON CARÁCTER GENERAL PARA TODAS LAS
+VÍCTIMAS
+Y 3.1 Adoptar rutinas de seguridad en los desplazamientos y salidas para desarrollar cualquier
+actividad cotidiana.
+Y 3.2 Identificar a los vecinos/amigos de más confianza que puedan ser contactados en caso de
+emergencia. Informarles de la situación y pedirles que llamen a Fuerzas y Cuerpos de Seguridad si
+advierten la presencia del agresor o si oyen gritos o sonidos propios de un ataque violento.
+Y” 3.3 No acudir a encuentros con el agresor.
+Y” 3.4 Portar fotocopia de las disposiciones judiciales de protección/alejamiento.
+Y 3.5 Interesarse por la realización de cualquier tipo de formación en: defensa personal, gestión
+segura de redes sociales y aplicaciones móviles u otros que redunden en favor de su seguridad
+y autoconfianza.
+Y 3.6 En caso de cambio de domicilio, comunicarlo exclusivamente al Cuerpo de Seguridad
+encargado de su protección y, en su caso, a personas sólo de su absoluta confianza.
+Y” APARTADO 4
+PLANIFICACIÓN DE RUTINA DE HUÍDA EN CASO DE INTENTO DE NUEVA AGRESIÓN
+PARA TODAS LAS VÍCTIMAS
+Y 4,1 Salir rápidamente del domicilio.
+Y 4.2 Si no se puede salir, confinarse en lugar seguro, encerrarse en habitación segura portando
+teléfono móvil y llamar a Fuerzas y Cuerpos de Seguridad.
+Y 4,3 Pedir auxilio a través de ventanas e incluso, de ser seguras, utilizarlas como vías de escape.
+Y 4.4 Mantenerse alejada de las habitaciones y dependencias del domicilio donde puedan
+guardarse objetos contundentes o peligrosos (cocina, garaje, gimnasio, etc.)
+Y 4,5 Tener preparada una bolsa de emergencia, por si es necesario abandonar el domicilio
+precipitadamente y esconderla en lugar seguro (la casa de un vecino o amigo), evitando el
+entorno de familia y amigos del agresor. La bolsa podría incluir, para la víctima y, en su caso,
+menores a su cargo: documentos esenciales (de identidad, relacionados con la vivienda, etc.)
+tarjetas bancarias o sanitarias, llaves (domicilio, vehículo, lugar de trabajo) dinero en efectivo,
+medicamentos y/o prescripciones, prendas de vestir, dispositivo móvil, etc.
+21
+=========== PDF PAGE 22 ===========
+SECRETARÍA DE ESTADO
+$
+5 A MINISTERIO DE SEGURIDAD
+= b DEL INTERIOR SECRETARIA DE ESTADO
+Y” APARTADO 5:
+MEDIDAS DE AUTOPROTECCIÓN ANTE NUEVA AGRESIÓN SÓLO CUANDO LA VÍCTIMA
+TIENE MENORES A SU CARGO
+Y” 5.1 Enseñarles a salir de la habitación cuando se produzca un hecho violento.
+Y 5.2 Cuando los menores tengan edad suficiente, enseñarles un sitio seguro donde dirigirse
+fuera de casa, estableciendo una ruta segura donde poder encontrarse de nuevo tras el episodio
+violento.
+Y” 5.3 Disponer de una habitación segura en la casa, preferiblemente con cerradura y teléfono y
+enseñarles a ir a ese lugar ante un episodio violento (es necesario subrayar la importancia de
+estar seguros).
+Y” 5,4 Avisar a los menores de qué es una situación violenta (a menudo no la identifican
+fácilmente), acordando una palabra o gesto concreto clave que se pueda usar para que los niños
+comprendan que deben pedir ayuda.
+Y 5.5 Enseñar a los menores a pedir ayuda a vecinos de confianza, familiares, etc. para que estos
+a su vez alerten a las Fuerzas y Cuerpos de Seguridad.
+Y 5.6 Enseñar a los menores a ponerse en contacto con Fuerzas y Cuerpos de Seguridad tanto a
+través del teléfono fijo de casa, como a través del teléfono móvil, cuando no les vea el agresor.
+Y 5.7 Es necesario que sepan que deben decir su nombre completo y dirección a Fuerzas y
+Cuerpos de Seguridad así como mensaje memorizado sencillo en caso de llamar. También que
+deben dejar el teléfono descolgado para evitar una llamada de vuelta y por tanto una situación
+más peligrosa.
+Y 5.8 Practicar con los menores estas estrategias para que puedan ejecutarlas con destreza.
+Y” 5.9 Informar al Colegio de la situación y, en su caso, de las Medidas judiciales en vigor, al objeto
+de que el centro adopte las medidas oportunas, entre otras evitar convocar a reuniones de
+padres a ambos a la vez.
+Y” APARTADO 6:
+MEDIDAS DE AUTOPROTECCIÓN SÓLO EN _CASO DE QUE EL AGRESOR HAYA
+ABANDONADO EL DOMICILIO
+Y” 6.1 Cambio o refuerzo de cerradura en la entrada y/o instalación en otras habitaciones o
+ventanas.
+Y” 6.2 Dejar las llaves puestas por dentro de casa cada vez que se esté dentro.
+Y 6.3 Instalación de video-porteros y/o mirillas con buena visibilidad.
+Y 6.4 Añadir luces adicionales en el exterior.
+Y 6.5 Instalación de sistemas de alarma conectados con Centro de Recepción de Alarmas.
+22
+=========== PDF PAGE 23 ===========
+SECRETARÍA DE ESTADO
+z *
+5 %) MINISTERIO DE SEGURIDAD
+a a DEL INTERIOR SECRETARIA DE ESTADO
+Y” APARTADO 7:
+MEDIDAS DE AUTOPROTECCIÓN SÓLO EN EL LUGAR DE TRABAJO:
+Y” 7.1 Informar al responsable de su situación.
+Y 7.2 Solicitar cambio de centro o de horario de trabajo y que se garantice la confidencialidad de
+los datos.
+Y 7.3 No utilizar las mismas rutas de traslado al centro de trabajo y regreso a casa.
+Y” 7.4 Procurar desplazarse acompañada de personas o compañeros de confianza.
+Y 7.5 Mostrar en el entorno de personal de seguridad y de confianza fotografía reciente del
+agresor.
+Y 7.6 Mantener fotocopia de disposiciones judiciales de protección/alejamiento en el lugar de
+trabajo.
+23
