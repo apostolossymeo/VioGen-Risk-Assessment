@@ -1,0 +1,9 @@
+-r scripts/02_historical_scoring/requirements.txt
+-r scripts/03_institutional_rules/requirements.txt
+
+# Official bulletin extraction and OCR
+numpy
+Pillow
+pytesseract
+opencv-python-headless
+requests
