@@ -1,0 +1,14 @@
+year,level,subject,measure_summary,obligation_type,source_section,printed_page,source_url,exhaustive
+2025,low,victim,Explain risk and significant factors,mandatory,Annex II,37,https://mundopolicial.net/wp-content/uploads/instruccion-1.2025-s.e.s.-viogen.pdf,False
+2025,low,victim,Provide permanent police contact numbers and emergency contacts,mandatory,Annex II,37,https://mundopolicial.net/wp-content/uploads/instruccion-1.2025-s.e.s.-viogen.pdf,False
+2025,low,victim,Offer information/referral to victim assistance services,mandatory_core_conditional_referral,Annex II,37,https://mundopolicial.net/wp-content/uploads/instruccion-1.2025-s.e.s.-viogen.pdf,False
+2025,low,victim,Establish personal or telephone contact as resources allow,mandatory_objective_discretionary_modality,Annex II,37-38,https://mundopolicial.net/wp-content/uploads/instruccion-1.2025-s.e.s.-viogen.pdf,False
+2025,medium,victim,Conduct personal interview,mandatory,Annex II,39,https://mundopolicial.net/wp-content/uploads/instruccion-1.2025-s.e.s.-viogen.pdf,False
+2025,medium,victim,Occasional/random monitoring around home/work/school,mandatory_tier_with_case_adaptation,Annex II,39,https://mundopolicial.net/wp-content/uploads/instruccion-1.2025-s.e.s.-viogen.pdf,False
+2025,medium,victim,Escort to judicial/administrative proceedings when risk makes it appropriate,conditional,Annex II,39,https://mundopolicial.net/wp-content/uploads/instruccion-1.2025-s.e.s.-viogen.pdf,False
+2025,high,victim,Discuss alternative accommodation if perpetrator has not been located,conditional,Annex II,39,https://mundopolicial.net/wp-content/uploads/instruccion-1.2025-s.e.s.-viogen.pdf,False
+2025,high,perpetrator,Random and frequent surveillance of perpetrator movements,mandatory_tier_with_case_adaptation,Annex II,39,https://mundopolicial.net/wp-content/uploads/instruccion-1.2025-s.e.s.-viogen.pdf,False
+2025,extreme,victim,Continuous in-person police protection while imminent threat persists,mandatory_conditional_duration,Annex II,40,https://mundopolicial.net/wp-content/uploads/instruccion-1.2025-s.e.s.-viogen.pdf,False
+2025,extreme,perpetrator,Intensive movement monitoring while imminent threat persists,mandatory_conditional_duration,Annex II,40,https://mundopolicial.net/wp-content/uploads/instruccion-1.2025-s.e.s.-viogen.pdf,False
+2019,no_appreciable,victim,"Information, assistance and tailored self-protection advice",mandatory_core,Annex 1,15,https://violenciagenero.igualdad.gob.es/wp-content/uploads/InstrucciOn_4-2019.pdf,False
+2019,low,victim,Phone or in-person contact with victim,mandatory_core_discretionary_modality,Annex 1,16,https://violenciagenero.igualdad.gob.es/wp-content/uploads/InstrucciOn_4-2019.pdf,False
