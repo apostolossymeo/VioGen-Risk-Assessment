@@ -1,0 +1,54 @@
+{
+  "module": "VioGén Module 3: institutional investigation of decision authority (2019 vs 2025 protocols)",
+  "version": "2.0",
+  "date": "2026-11-11",
+  "previous_version": "1 (datasets retained in version1_data/ for the audit)",
+  "status": "Documentary research on formal rules; no scoring reconstruction, no real cases, no claim about practice",
+  "counts": {
+    "sources": 11,
+    "clauses_verified_on_page": 128,
+    "decision_rule_records": 55,
+    "comparison_topics": 34,
+    "annex_measures": 67,
+    "annex_measure_changes": 16,
+    "intervening_instruments": 10,
+    "uncertainty_items": 14,
+    "abstract_pathways": 50,
+    "verification_matrix_rows": 129
+  },
+  "primary_source_sha256": {
+    "SES_Instruccion_1-2025_signed_CSV_mirror.pdf": "08e6c0ecdfc3317a656afb3c92ff5c0fc26ae1ec0ee1aef2216e5a68fca94b00",
+    "SES_Instruccion_4-2019_official_igualdad.pdf": "238f9010765c39ed9fc6d59bd5bbee34828dfc558995c0c6c54d85b4fc8d122f",
+    "SES_Instruccion_5-2021_Protocolo_Cero_official_igualdad.pdf": "1eb535a50b0ee4c230a18a4f44e5029c683b10b3a54fff86614a960c73c87c31"
+  },
+  "fresh_environment_run": {
+    "python": "3.13.18",
+    "packages": {
+      "pandas": "3.1.1",
+      "matplotlib": "3.11.2",
+      "nbformat": "5.11.1",
+      "nbconvert": "7.17.2",
+      "pytest": "9.2.0",
+      "ipykernel": "7.4.0"
+    },
+    "steps": [
+      "pip install -r requirements.txt",
+      "python3 build_module3.py",
+      "python3 make_figures.py",
+      "python3 make_notebook.py",
+      "jupyter nbconvert --execute",
+      "python3 -m pytest tests -q"
+    ],
+    "result": "exit 0; 275 passed; notebook 0 errors",
+    "data_byte_identical": true,
+    "figures_byte_identical": false,
+    "figures_note": "same content; text anti-aliasing differs between matplotlib builds"
+  },
+  "not_established": [
+    "Official CSV validation of Instrucción 1/2025 (captcha-protected; manual step)",
+    "Primary texts of Instrucciones 8/2021, 11/2022, 1/2023 and 2/2024",
+    "Origin of the grade-D changes first documented in 2025",
+    "Police practice (override frequency, delivery and recording of measures, supervised-case handling)",
+    "VioGén-2 scoring (out of scope by design)"
+  ]
+}
