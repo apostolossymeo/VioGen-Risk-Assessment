@@ -1,0 +1,17 @@
+topic,measure_2019,measure_2025,change_type,note
+aggressor_notified_case_under_control,A1-2019-09,A2-2025-15,narrowed,"2019: every bajo+ case. 2025: only ""EN EL CASO DE EXISTENCIA DE MEDIDAS JUDICIALES"" (and §5.2, persistent aggressors)."
+prison_information_review,A1-2019-12,A2-2025-17,narrowed_and_extended,"2019: all bajo+. 2025: only with judicial measures, but adds informing the victim of leave/release."
+weapons_licence,A1-2019-10,A2-2025-14,narrowed,"2025 drops ""Posteriormente solicitar la retirada judicial de ambas""."
+referral_to_support_services,A1-2019-06,A2-2025-07,weakened,"2019: ""Derivación"" (referral). 2025: ""Información y, en su caso, derivación"" (information; referral where appropriate)."
+contact_modality,A1-2019-07,A2-2025-09,resource_contingency_explicit,"2019: phone and/or personal, uniform choice agreed with the victim. 2025: personal or phone ""en función de los medios disponibles""; plain clothes by default."
+telematic_device_request,A1-2019-18,A2-2025-26,narrowed_at_medium,"2019: requested for every medio (hence alto, extremo) case. 2025: medio only if special relevance; alto+ always."
+victim_site_surveillance_high,A1-2019-22,,removed_at_high,"2019 Alto: frequent and random checks at home/work. 2025 Alto lists none; only Medio's ""vigilancia ocasional y aleatoria"" carries over cumulatively."
+aggressor_surveillance_high,A1-2019-23,A2-2025-30,intensified,"2019: random control + sporadic contacts with his circle. 2025: random AND frequent surveillance, plus an occasional interview with him."
+relocation_high,A1-2019-21,A2-2025-27,softened,"2019: ""insistir"" on relocation. 2025: ""hablar con la víctima sobre la posibilidad""."
+aggressor_compliance_checks_medium,A1-2019-19,A2-2025-24,narrowed,2019 includes occasional checks on the aggressor at home/work; 2025 states periodic compliance checks only.
+permanent_protection_extreme,A1-2019-24,A2-2025-32,specified,"2025 adds ""de manera presencial por parte del Cuerpo Policial respectivo""."
+school_surveillance_extreme,A1-2019-25,A2-2025-33,strengthened,"2019: ""Si procede"". 2025: unconditional."
+dossier_to_patrols,A1-2019-13,,removed,2019 optional circulation of the case dossier to patrols; absent from 2025 Annex II.
+digital_self_protection,,A2-2025-12,new,"2025 adds cybersecurity advice at every level (block, delete, new digital identity)."
+minors_block,,A2-2025-36,new,2025 adds a six-item block for victims with minors in their care (all levels).
+measure_recording,,,new_weak_duty,"2025 Annex II header: recording measures in the system is only ""recomendable"", ""en la medida de lo posible"" (C25-A2-REC)."

@@ -1,0 +1,15 @@
+item_id,type,question,current_evidence,confidence,how_to_resolve
+U01,provenance,Authenticity of the 2025 PDF,"Signed copy with CSV on three non-government hosts (two byte-identical, one text-identical); official CSV check not performed (captcha).",medium-high,A person enters the CSV at sede.administracion.gob.es and compares the returned file hash.
+U02,provenance,Text of Instrucción 2/2024,Restricted (SUP members). Parameters from Consejo de Ministros summary (B) and La Marea / DEPOL (C).,medium,Request via Portal de Transparencia or from a police union / academy; compare the 6-month figures.
+U03,provenance,"Texts of 8/2021, 11/2022, 1/2023, 7/2019, 12/2018",Not found publicly; only summaries or titles.,medium,Transparency request (Ley 19/2013).
+U04,interpretation,Special relevance at Extremo: first VPER,"§4.5 limits the 7-day minimum to Medio/Alto; §8.A states it for special-relevance cases generally and lets Extremo be earlier. Engine: Extremo has no minimum, 15-day maximum under §4.3.",medium,Interview: how specialised units schedule the first VPER in Extremo special-relevance cases.
+U05,interpretation,First VPER for Bajo without judicial measures (2025),"No deadline is stated in §4.3-4.4; §6.1 presupposes a first VPER. Engine returns ""not stated"".",high (that it is unstated),"Interview: when the first VPER is actually done for these cases, and whether the system schedules it."
+U06,interpretation,Periodic VPER while supervised,"§6.1 applies ""mientras el caso permanezca Activo""; §7.4.2 only fixes a VPER on entry and at three months for special relevance.",high (that it is unstated),Interview / system screens.
+U07,interpretation,"""Medidas Condicionadas""",Term used in §7.1 without definition.,medium,Legal reading or interview.
+U08,interpretation,"Effective date vs. ""totalmente aplicable""","Effective 30 June 2025; earlier instructions lapse ""una vez resulte totalmente aplicable"" (no date).",medium,Check the Orden General / BOGC publication.
+U09,practice,Override frequency and reasons,No data; no duty to record reasons is stated.,unknown,Interview; transparency request for aggregate override counts.
+U10,practice,Delivery of Annex measures,Recording measures is only recommended; delivery unobserved.,unknown,Interview; audit of the Módulo de Actuaciones Policiales.
+U11,practice,"How ""No se sabe"" answers are scored in VioGén-2",Not documented; NS now shown to the court.,unknown,Interview; designers.
+U12,data,Bajo split by judicial measures in statistics,Not published; reassessment workload cannot be computed.,high (that it is missing),Request the split from the DGVG Portal Estadístico or the SES.
+U13,design,"VioGén-2 weights, cut-offs, indicator combinations for special relevance / minors",Not public; Moncloa mentions recalibration and new indicators.,unknown,Out of scope by design (no reconstruction).
+U14,method,OCR of the 2019 scan,All 2019 excerpts re-found with token similarity >= 0.90 on the declared page; annex and key clauses also checked against the page images.,high,None needed.

@@ -1,0 +1,51 @@
+pathway_id,year,assigned,officer,judicial_measures,deadlines_consistent_with_text,inactivation_semantics,differences
+P2019-no_-no_-noJM,2019,no_appreciable,no_appreciable,False,yes,v1 error,inactivation possible_subject_to_professional_review -> cannot_determine (v1 assumed the evaluator-judgement premise (2.6.ii) was met)
+P2019-no_-no_-JM,2019,no_appreciable,no_appreciable,True,yes,ok,inactivation not_eligible_under_ordinary_rule -> not_eligible
+P2019-no_-low-noJM,2019,no_appreciable,low,False,yes,v1 error,inactivation insufficient_conditions -> cannot_determine (v1 treated unknown premises (None) as unmet)
+P2019-no_-low-JM,2019,no_appreciable,low,True,yes,ok,inactivation not_eligible_under_ordinary_rule -> not_eligible
+P2019-no_-med-noJM,2019,no_appreciable,medium,False,yes,ok,inactivation not_eligible_under_ordinary_rule -> not_eligible
+P2019-no_-med-JM,2019,no_appreciable,medium,True,yes,ok,inactivation not_eligible_under_ordinary_rule -> not_eligible
+P2019-no_-hig-noJM,2019,no_appreciable,high,False,yes,ok,inactivation not_eligible_under_ordinary_rule -> not_eligible
+P2019-no_-hig-JM,2019,no_appreciable,high,True,yes,ok,inactivation not_eligible_under_ordinary_rule -> not_eligible
+P2019-no_-ext-noJM,2019,no_appreciable,extreme,False,yes,ok,later_vper 3 (days) -> 72 hours (unit made explicit); inactivation not_eligible_under_ordinary_rule -> not_eligible
+P2019-no_-ext-JM,2019,no_appreciable,extreme,True,yes,ok,later_vper 3 (days) -> 72 hours (unit made explicit); inactivation not_eligible_under_ordinary_rule -> not_eligible
+P2019-low-low-noJM,2019,low,low,False,yes,v1 error,inactivation insufficient_conditions -> cannot_determine (v1 treated unknown premises (None) as unmet)
+P2019-low-low-JM,2019,low,low,True,yes,ok,inactivation not_eligible_under_ordinary_rule -> not_eligible
+P2019-low-med-noJM,2019,low,medium,False,yes,ok,inactivation not_eligible_under_ordinary_rule -> not_eligible
+P2019-low-med-JM,2019,low,medium,True,yes,ok,inactivation not_eligible_under_ordinary_rule -> not_eligible
+P2019-low-hig-noJM,2019,low,high,False,yes,ok,inactivation not_eligible_under_ordinary_rule -> not_eligible
+P2019-low-hig-JM,2019,low,high,True,yes,ok,inactivation not_eligible_under_ordinary_rule -> not_eligible
+P2019-low-ext-noJM,2019,low,extreme,False,yes,ok,later_vper 3 (days) -> 72 hours (unit made explicit); inactivation not_eligible_under_ordinary_rule -> not_eligible
+P2019-low-ext-JM,2019,low,extreme,True,yes,ok,later_vper 3 (days) -> 72 hours (unit made explicit); inactivation not_eligible_under_ordinary_rule -> not_eligible
+P2019-med-med-noJM,2019,medium,medium,False,yes,ok,inactivation not_eligible_under_ordinary_rule -> not_eligible
+P2019-med-med-JM,2019,medium,medium,True,yes,ok,inactivation not_eligible_under_ordinary_rule -> not_eligible
+P2019-med-hig-noJM,2019,medium,high,False,yes,ok,inactivation not_eligible_under_ordinary_rule -> not_eligible
+P2019-med-hig-JM,2019,medium,high,True,yes,ok,inactivation not_eligible_under_ordinary_rule -> not_eligible
+P2019-med-ext-noJM,2019,medium,extreme,False,yes,ok,later_vper 3 (days) -> 72 hours (unit made explicit); inactivation not_eligible_under_ordinary_rule -> not_eligible
+P2019-med-ext-JM,2019,medium,extreme,True,yes,ok,later_vper 3 (days) -> 72 hours (unit made explicit); inactivation not_eligible_under_ordinary_rule -> not_eligible
+P2019-hig-hig-noJM,2019,high,high,False,yes,ok,inactivation not_eligible_under_ordinary_rule -> not_eligible
+P2019-hig-hig-JM,2019,high,high,True,yes,ok,inactivation not_eligible_under_ordinary_rule -> not_eligible
+P2019-hig-ext-noJM,2019,high,extreme,False,yes,ok,later_vper 3 (days) -> 72 hours (unit made explicit); inactivation not_eligible_under_ordinary_rule -> not_eligible
+P2019-hig-ext-JM,2019,high,extreme,True,yes,ok,later_vper 3 (days) -> 72 hours (unit made explicit); inactivation not_eligible_under_ordinary_rule -> not_eligible
+P2019-ext-ext-noJM,2019,extreme,extreme,False,yes,ok,later_vper 3 (days) -> 72 hours (unit made explicit); inactivation not_eligible_under_ordinary_rule -> not_eligible
+P2019-ext-ext-JM,2019,extreme,extreme,True,yes,ok,later_vper 3 (days) -> 72 hours (unit made explicit); inactivation not_eligible_under_ordinary_rule -> not_eligible
+P2025-low-low-noJM,2025,low,low,False,yes,ok,inactivation unknown_conditions -> cannot_determine
+P2025-low-low-JM,2025,low,low,True,yes,ok,inactivation not_eligible_under_ordinary_rule -> not_eligible
+P2025-low-med-noJM,2025,low,medium,False,yes,ok,inactivation not_eligible_under_ordinary_rule -> not_eligible
+P2025-low-med-JM,2025,low,medium,True,yes,ok,inactivation not_eligible_under_ordinary_rule -> not_eligible
+P2025-low-hig-noJM,2025,low,high,False,yes,ok,inactivation not_eligible_under_ordinary_rule -> not_eligible
+P2025-low-hig-JM,2025,low,high,True,yes,ok,inactivation not_eligible_under_ordinary_rule -> not_eligible
+P2025-low-ext-noJM,2025,low,extreme,False,yes,ok,later_vper 3 (days) -> 72 hours (unit made explicit); inactivation not_eligible_under_ordinary_rule -> not_eligible
+P2025-low-ext-JM,2025,low,extreme,True,yes,ok,later_vper 3 (days) -> 72 hours (unit made explicit); inactivation not_eligible_under_ordinary_rule -> not_eligible
+P2025-med-med-noJM,2025,medium,medium,False,yes,ok,inactivation not_eligible_under_ordinary_rule -> not_eligible
+P2025-med-med-JM,2025,medium,medium,True,yes,ok,inactivation not_eligible_under_ordinary_rule -> not_eligible
+P2025-med-hig-noJM,2025,medium,high,False,yes,ok,inactivation not_eligible_under_ordinary_rule -> not_eligible
+P2025-med-hig-JM,2025,medium,high,True,yes,ok,inactivation not_eligible_under_ordinary_rule -> not_eligible
+P2025-med-ext-noJM,2025,medium,extreme,False,yes,ok,later_vper 3 (days) -> 72 hours (unit made explicit); inactivation not_eligible_under_ordinary_rule -> not_eligible
+P2025-med-ext-JM,2025,medium,extreme,True,yes,ok,later_vper 3 (days) -> 72 hours (unit made explicit); inactivation not_eligible_under_ordinary_rule -> not_eligible
+P2025-hig-hig-noJM,2025,high,high,False,yes,ok,inactivation not_eligible_under_ordinary_rule -> not_eligible
+P2025-hig-hig-JM,2025,high,high,True,yes,ok,inactivation not_eligible_under_ordinary_rule -> not_eligible
+P2025-hig-ext-noJM,2025,high,extreme,False,yes,ok,later_vper 3 (days) -> 72 hours (unit made explicit); inactivation not_eligible_under_ordinary_rule -> not_eligible
+P2025-hig-ext-JM,2025,high,extreme,True,yes,ok,later_vper 3 (days) -> 72 hours (unit made explicit); inactivation not_eligible_under_ordinary_rule -> not_eligible
+P2025-ext-ext-noJM,2025,extreme,extreme,False,yes,ok,later_vper 3 (days) -> 72 hours (unit made explicit); inactivation not_eligible_under_ordinary_rule -> not_eligible
+P2025-ext-ext-JM,2025,extreme,extreme,True,yes,ok,later_vper 3 (days) -> 72 hours (unit made explicit); inactivation not_eligible_under_ordinary_rule -> not_eligible
