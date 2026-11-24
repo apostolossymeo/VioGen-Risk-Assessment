@@ -1,0 +1,768 @@
+month,table,check,result,detail
+2018-01,territory,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2018-01,territory,printed data date equals month end,pass,2018-01-31
+2018-01,territory,provinces sum to their region (all case columns),pass,
+2018-01,territory,19 regions sum to national TOTAL (all case columns),pass,
+2018-01,police forces,table present in bulletin,not available,police-institution table first printed in the February 2020 bulletin
+2018-02,territory,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2018-02,territory,printed data date equals month end,pass,2018-02-28
+2018-02,territory,provinces sum to their region (all case columns),pass,
+2018-02,territory,19 regions sum to national TOTAL (all case columns),pass,
+2018-02,police forces,table present in bulletin,not available,police-institution table first printed in the February 2020 bulletin
+2018-03,territory,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2018-03,territory,printed data date equals month end,pass,2018-03-31
+2018-03,territory,provinces sum to their region (all case columns),pass,
+2018-03,territory,19 regions sum to national TOTAL (all case columns),pass,
+2018-03,police forces,table present in bulletin,not available,police-institution table first printed in the February 2020 bulletin
+2018-04,territory,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2018-04,territory,printed data date equals month end,pass,2018-04-30
+2018-04,territory,provinces sum to their region (all case columns),pass,
+2018-04,territory,19 regions sum to national TOTAL (all case columns),pass,
+2018-04,police forces,table present in bulletin,not available,police-institution table first printed in the February 2020 bulletin
+2018-05,territory,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2018-05,territory,printed data date equals month end,pass,2018-05-31
+2018-05,territory,provinces sum to their region (all case columns),pass,
+2018-05,territory,19 regions sum to national TOTAL (all case columns),pass,
+2018-05,police forces,table present in bulletin,not available,police-institution table first printed in the February 2020 bulletin
+2018-06,territory,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2018-06,territory,printed data date equals month end,pass,2018-06-30
+2018-06,territory,provinces sum to their region (all case columns),pass,
+2018-06,territory,19 regions sum to national TOTAL (all case columns),pass,
+2018-06,police forces,table present in bulletin,not available,police-institution table first printed in the February 2020 bulletin
+2018-07,territory,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2018-07,territory,printed data date equals month end,pass,2018-07-31
+2018-07,territory,provinces sum to their region (all case columns),pass,
+2018-07,territory,19 regions sum to national TOTAL (all case columns),pass,
+2018-07,police forces,table present in bulletin,not available,police-institution table first printed in the February 2020 bulletin
+2018-08,territory,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2018-08,territory,printed data date equals month end,pass,2018-08-31
+2018-08,territory,provinces sum to their region (all case columns),pass,
+2018-08,territory,19 regions sum to national TOTAL (all case columns),pass,
+2018-08,police forces,table present in bulletin,not available,police-institution table first printed in the February 2020 bulletin
+2018-09,territory,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2018-09,territory,printed data date equals month end,pass,2018-09-30
+2018-09,territory,provinces sum to their region (all case columns),pass,
+2018-09,territory,19 regions sum to national TOTAL (all case columns),pass,
+2018-09,police forces,table present in bulletin,not available,police-institution table first printed in the February 2020 bulletin
+2018-10,territory,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2018-10,territory,printed data date equals month end,pass,2018-10-31
+2018-10,territory,provinces sum to their region (all case columns),pass,
+2018-10,territory,19 regions sum to national TOTAL (all case columns),pass,
+2018-10,police forces,table present in bulletin,not available,police-institution table first printed in the February 2020 bulletin
+2018-11,territory,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2018-11,territory,printed data date equals month end,pass,2018-11-30
+2018-11,territory,provinces sum to their region (all case columns),pass,
+2018-11,territory,19 regions sum to national TOTAL (all case columns),pass,
+2018-11,police forces,table present in bulletin,not available,police-institution table first printed in the February 2020 bulletin
+2018-12,territory,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2018-12,territory,printed data date equals month end,pass,2018-12-31
+2018-12,territory,provinces sum to their region (all case columns),pass,
+2018-12,territory,19 regions sum to national TOTAL (all case columns),pass,
+2018-12,police forces,table present in bulletin,not available,police-institution table first printed in the February 2020 bulletin
+2019-01,territory,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2019-01,territory,printed data date equals month end,pass,2019-01-31
+2019-01,territory,provinces sum to their region (all case columns),pass,
+2019-01,territory,19 regions sum to national TOTAL (all case columns),pass,
+2019-01,police forces,table present in bulletin,not available,police-institution table first printed in the February 2020 bulletin
+2019-02,territory,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2019-02,territory,printed data date equals month end,pass,2019-02-28
+2019-02,territory,provinces sum to their region (all case columns),pass,
+2019-02,territory,19 regions sum to national TOTAL (all case columns),pass,
+2019-02,police forces,table present in bulletin,not available,police-institution table first printed in the February 2020 bulletin
+2019-03,territory,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2019-03,territory,printed data date equals month end,pass,2019-03-31
+2019-03,territory,provinces sum to their region (all case columns),pass,
+2019-03,territory,19 regions sum to national TOTAL (all case columns),pass,
+2019-03,police forces,table present in bulletin,not available,police-institution table first printed in the February 2020 bulletin
+2019-04,territory,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2019-04,territory,printed data date equals month end,pass,2019-04-30
+2019-04,territory,provinces sum to their region (all case columns),pass,
+2019-04,territory,19 regions sum to national TOTAL (all case columns),pass,
+2019-04,police forces,table present in bulletin,not available,police-institution table first printed in the February 2020 bulletin
+2019-05,territory,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2019-05,territory,printed data date equals month end,pass,2019-05-31
+2019-05,territory,provinces sum to their region (all case columns),pass,
+2019-05,territory,19 regions sum to national TOTAL (all case columns),pass,
+2019-05,police forces,table present in bulletin,not available,police-institution table first printed in the February 2020 bulletin
+2019-06,territory,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2019-06,territory,printed data date equals month end,pass,2019-06-30
+2019-06,territory,provinces sum to their region (all case columns),pass,
+2019-06,territory,19 regions sum to national TOTAL (all case columns),pass,
+2019-06,police forces,table present in bulletin,not available,police-institution table first printed in the February 2020 bulletin
+2019-07,territory,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2019-07,territory,printed data date equals month end,pass,2019-07-31
+2019-07,territory,provinces sum to their region (all case columns),pass,
+2019-07,territory,19 regions sum to national TOTAL (all case columns),pass,
+2019-07,police forces,table present in bulletin,not available,police-institution table first printed in the February 2020 bulletin
+2019-08,territory,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2019-08,territory,printed data date equals month end,pass,2019-08-31
+2019-08,territory,provinces sum to their region (all case columns),pass,
+2019-08,territory,19 regions sum to national TOTAL (all case columns),pass,
+2019-08,police forces,table present in bulletin,not available,police-institution table first printed in the February 2020 bulletin
+2019-09,territory,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2019-09,territory,printed data date equals month end,pass,2019-09-30
+2019-09,territory,provinces sum to their region (all case columns),pass,
+2019-09,territory,19 regions sum to national TOTAL (all case columns),pass,
+2019-09,police forces,table present in bulletin,not available,police-institution table first printed in the February 2020 bulletin
+2019-10,territory,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2019-10,territory,printed data date equals month end,pass,2019-10-31
+2019-10,territory,provinces sum to their region (all case columns),pass,
+2019-10,territory,19 regions sum to national TOTAL (all case columns),pass,
+2019-10,police forces,table present in bulletin,not available,police-institution table first printed in the February 2020 bulletin
+2019-11,territory,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2019-11,territory,printed data date equals month end,pass,2019-11-30
+2019-11,territory,provinces sum to their region (all case columns),pass,
+2019-11,territory,19 regions sum to national TOTAL (all case columns),pass,
+2019-11,police forces,table present in bulletin,not available,police-institution table first printed in the February 2020 bulletin
+2019-12,territory,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2019-12,territory,printed data date equals month end,pass,2019-12-31
+2019-12,territory,provinces sum to their region (all case columns),pass,
+2019-12,territory,19 regions sum to national TOTAL (all case columns),pass,
+2019-12,police forces,table present in bulletin,not available,police-institution table first printed in the February 2020 bulletin
+2020-01,territory,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2020-01,territory,printed data date equals month end,pass,2020-01-31
+2020-01,territory,provinces sum to their region (all case columns),pass,
+2020-01,territory,19 regions sum to national TOTAL (all case columns),pass,
+2020-01,police forces,table present in bulletin,not available,police-institution table first printed in the February 2020 bulletin
+2020-02,territory,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2020-02,territory,printed data date equals month end,pass,2020-02-29
+2020-02,territory,provinces sum to their region (all case columns),pass,
+2020-02,territory,19 regions sum to national TOTAL (all case columns),pass,
+2020-02,police forces,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2020-02,police forces,printed data date equals month end,pass,2020-02-29
+2020-02,police forces,institutions sum to TOTAL (all case columns),pass,
+2020-02,cross-table,territorial TOTAL equals police-force TOTAL,pass,
+2020-03,territory,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2020-03,territory,printed data date equals month end,pass,2020-03-31
+2020-03,territory,provinces sum to their region (all case columns),pass,
+2020-03,territory,19 regions sum to national TOTAL (all case columns),pass,
+2020-03,police forces,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2020-03,police forces,printed data date equals month end,pass,2020-03-31
+2020-03,police forces,institutions sum to TOTAL (all case columns),pass,
+2020-03,cross-table,territorial TOTAL equals police-force TOTAL,pass,
+2020-04,territory,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2020-04,territory,printed data date equals month end,pass,2020-04-30
+2020-04,territory,provinces sum to their region (all case columns),pass,
+2020-04,territory,19 regions sum to national TOTAL (all case columns),pass,
+2020-04,police forces,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2020-04,police forces,printed data date equals month end,pass,2020-04-30
+2020-04,police forces,institutions sum to TOTAL (all case columns),pass,
+2020-04,cross-table,territorial TOTAL equals police-force TOTAL,pass,
+2020-05,territory,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2020-05,territory,printed data date equals month end,pass,2020-05-31
+2020-05,territory,provinces sum to their region (all case columns),pass,
+2020-05,territory,19 regions sum to national TOTAL (all case columns),pass,
+2020-05,police forces,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2020-05,police forces,printed data date equals month end,pass,2020-05-31
+2020-05,police forces,institutions sum to TOTAL (all case columns),pass,
+2020-05,cross-table,territorial TOTAL equals police-force TOTAL,pass,
+2020-06,territory,table extracted,not available,table printed as an image; not extracted
+2020-06,police forces,every row: risk levels sum to active; active+supervised+inactive = total,FAIL,PL Aragón: active+supervised+inactive 20 != total 29; TOTAL: levels 66077 != active 62077
+2020-06,police forces,printed data date equals month end,FAIL,2020-08-30
+2020-06,police forces,institutions sum to TOTAL (all case columns),FAIL,forces sum no_appreciable 30887 != TOTAL 30896; forces sum medium 5939 != TOTAL 9939; forces sum active 62068 != TOTAL 62077; forces sum inactive 528380 != TOTAL 928380; forces sum total 590457 != TOTAL 990457
+2020-06,police forces,OCR first-pass failures (before cell re-reading),pass,25 first-pass failures; rows re-read: 10; unreadable cells: 0 of 175
+2020-07,territory,table extracted,not available,table printed as an image; not extracted
+2020-07,police forces,every row: risk levels sum to active; active+supervised+inactive = total,FAIL,Mossos d'Esquadra: active+supervised+inactive 7144 != total 1144; TOTAL: levels 63364 != active 62964
+2020-07,police forces,printed data date equals month end,pass,2020-07-31
+2020-07,police forces,institutions sum to TOTAL (all case columns),FAIL,forces sum high 521 != TOTAL 921; forces sum inactive 531984 != TOTAL 931984; forces sum total 588948 != TOTAL 994948
+2020-07,police forces,OCR first-pass failures (before cell re-reading),pass,11 first-pass failures; rows re-read: 5; unreadable cells: 0 of 178
+2020-08,territory,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2020-08,territory,printed data date equals month end,pass,2020-08-31
+2020-08,territory,provinces sum to their region (all case columns),pass,
+2020-08,territory,19 regions sum to national TOTAL (all case columns),pass,
+2020-08,police forces,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2020-08,police forces,printed data date equals month end,pass,2020-08-31
+2020-08,police forces,institutions sum to TOTAL (all case columns),pass,
+2020-08,cross-table,territorial TOTAL equals police-force TOTAL,pass,
+2020-09,territory,table extracted,not available,table printed as an image; not extracted
+2020-09,police forces,table extracted,not available,table printed as an image; not extracted
+2020-10,territory,table extracted,not available,table printed as an image; not extracted
+2020-10,police forces,table extracted,not available,table printed as an image; not extracted
+2020-11,territory,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2020-11,territory,printed data date equals month end,pass,2020-11-30
+2020-11,territory,provinces sum to their region (all case columns),pass,
+2020-11,territory,19 regions sum to national TOTAL (all case columns),pass,
+2020-11,police forces,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2020-11,police forces,printed data date equals month end,pass,2020-11-30
+2020-11,police forces,institutions sum to TOTAL (all case columns),pass,
+2020-11,cross-table,territorial TOTAL equals police-force TOTAL,pass,
+2020-12,territory,every row: risk levels sum to active; active+supervised+inactive = total,FAIL,Jaén: levels 877 != active 1377
+2020-12,territory,printed data date equals month end,pass,2020-12-31
+2020-12,territory,provinces sum to their region (all case columns),FAIL,Andalucía: provinces sum no_appreciable 7897 != region 8397; Cataluña: provinces sum inactive 8011 != region 7611; Cataluña: provinces sum total 8011 != region 7611
+2020-12,territory,19 regions sum to national TOTAL (all case columns),FAIL,"missing regions: Comunidad Foral de Navarra, Melilla; regions sum no_appreciable 30442 != TOTAL 31051; regions sum low 25377 != TOTAL 25854; regions sum medium 6180 != TOTAL 6321; regions sum high 412 != TOTAL 423"
+2020-12,territory,OCR first-pass failures (before cell re-reading),pass,48 first-pass failures; rows re-read: 14; unreadable cells: 0 of 468
+2020-12,police forces,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2020-12,police forces,printed data date equals month end,pass,2020-12-31
+2020-12,police forces,institutions sum to TOTAL (all case columns),pass,
+2020-12,police forces,OCR first-pass failures (before cell re-reading),pass,10 first-pass failures; rows re-read: 6; unreadable cells: 0 of 180
+2021-01,territory,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2021-01,territory,printed data date equals month end,pass,2021-01-31
+2021-01,territory,provinces sum to their region (all case columns),pass,
+2021-01,territory,19 regions sum to national TOTAL (all case columns),pass,
+2021-01,police forces,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2021-01,police forces,printed data date equals month end,pass,2021-01-31
+2021-01,police forces,institutions sum to TOTAL (all case columns),pass,
+2021-01,cross-table,territorial TOTAL equals police-force TOTAL,pass,
+2021-02,territory,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2021-02,territory,printed data date equals month end,pass,2021-02-28
+2021-02,territory,provinces sum to their region (all case columns),pass,
+2021-02,territory,19 regions sum to national TOTAL (all case columns),pass,
+2021-02,police forces,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2021-02,police forces,printed data date equals month end,pass,2021-02-28
+2021-02,police forces,institutions sum to TOTAL (all case columns),pass,
+2021-02,cross-table,territorial TOTAL equals police-force TOTAL,pass,
+2021-03,territory,table extracted,not available,table printed as an image; not extracted; national row taken from the police-institution TOTAL
+2021-03,police forces,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2021-03,police forces,printed data date equals month end,pass,2021-03-31
+2021-03,police forces,institutions sum to TOTAL (all case columns),pass,
+2021-04,territory,table extracted,not available,table printed as an image; not extracted
+2021-04,police forces,table extracted,not available,table printed as an image; not extracted
+2021-05,territory,table extracted,not available,table printed as an image; not extracted
+2021-05,police forces,table extracted,not available,table printed as an image; not extracted
+2021-06,territory,table extracted,not available,table printed as an image; not extracted; national row taken from the police-institution TOTAL
+2021-06,police forces,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2021-06,police forces,printed data date equals month end,pass,2021-06-30
+2021-06,police forces,institutions sum to TOTAL (all case columns),pass,
+2021-07,territory,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2021-07,territory,printed data date equals month end,pass,2021-07-31
+2021-07,territory,provinces sum to their region (all case columns),pass,
+2021-07,territory,19 regions sum to national TOTAL (all case columns),pass,
+2021-07,police forces,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2021-07,police forces,printed data date equals month end,pass,2021-07-31
+2021-07,police forces,institutions sum to TOTAL (all case columns),pass,
+2021-07,cross-table,territorial TOTAL equals police-force TOTAL,pass,
+2021-08,territory,table extracted,not available,table printed as an image; not extracted
+2021-08,police forces,table extracted,not available,table printed as an image; not extracted
+2021-09,territory,table extracted,not available,table printed as an image; not extracted
+2021-09,police forces,table extracted,not available,table printed as an image; not extracted
+2021-10,territory,table extracted,not available,table printed as an image; not extracted
+2021-10,police forces,table extracted,not available,table printed as an image; not extracted
+2021-11,territory,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2021-11,territory,printed data date equals month end,pass,2021-11-30
+2021-11,territory,provinces sum to their region (all case columns),pass,
+2021-11,territory,19 regions sum to national TOTAL (all case columns),pass,
+2021-11,police forces,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2021-11,police forces,printed data date equals month end,pass,2021-11-30
+2021-11,police forces,institutions sum to TOTAL (all case columns),pass,
+2021-11,cross-table,territorial TOTAL equals police-force TOTAL,pass,
+2021-12,territory,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2021-12,territory,printed data date equals month end,pass,2021-12-31
+2021-12,territory,provinces sum to their region (all case columns),pass,
+2021-12,territory,19 regions sum to national TOTAL (all case columns),pass,
+2021-12,police forces,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2021-12,police forces,printed data date equals month end,pass,2021-12-31
+2021-12,police forces,institutions sum to TOTAL (all case columns),pass,
+2021-12,cross-table,territorial TOTAL equals police-force TOTAL,pass,
+2022-01,territory,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2022-01,territory,printed data date equals month end,pass,2022-01-31
+2022-01,territory,provinces sum to their region (all case columns),pass,
+2022-01,territory,19 regions sum to national TOTAL (all case columns),pass,
+2022-01,police forces,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2022-01,police forces,printed data date equals month end,pass,2022-01-31
+2022-01,police forces,institutions sum to TOTAL (all case columns),pass,
+2022-01,cross-table,territorial TOTAL equals police-force TOTAL,pass,
+2022-02,territory,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2022-02,territory,printed data date equals month end,pass,2022-02-28
+2022-02,territory,provinces sum to their region (all case columns),pass,
+2022-02,territory,19 regions sum to national TOTAL (all case columns),pass,
+2022-02,police forces,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2022-02,police forces,printed data date equals month end,pass,2022-02-28
+2022-02,police forces,institutions sum to TOTAL (all case columns),pass,
+2022-02,cross-table,territorial TOTAL equals police-force TOTAL,pass,
+2022-03,territory,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2022-03,territory,printed data date equals month end,pass,2022-03-31
+2022-03,territory,provinces sum to their region (all case columns),pass,
+2022-03,territory,19 regions sum to national TOTAL (all case columns),pass,
+2022-03,police forces,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2022-03,police forces,printed data date equals month end,pass,2022-03-31
+2022-03,police forces,institutions sum to TOTAL (all case columns),pass,
+2022-03,cross-table,territorial TOTAL equals police-force TOTAL,pass,
+2022-04,territory,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2022-04,territory,printed data date equals month end,pass,2022-04-30
+2022-04,territory,provinces sum to their region (all case columns),pass,
+2022-04,territory,19 regions sum to national TOTAL (all case columns),pass,
+2022-04,police forces,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2022-04,police forces,printed data date equals month end,pass,2022-04-30
+2022-04,police forces,institutions sum to TOTAL (all case columns),pass,
+2022-04,cross-table,territorial TOTAL equals police-force TOTAL,pass,
+2022-05,territory,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2022-05,territory,printed data date equals month end,pass,2022-05-31
+2022-05,territory,provinces sum to their region (all case columns),pass,
+2022-05,territory,19 regions sum to national TOTAL (all case columns),pass,
+2022-05,police forces,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2022-05,police forces,printed data date equals month end,pass,2022-05-31
+2022-05,police forces,institutions sum to TOTAL (all case columns),pass,
+2022-05,cross-table,territorial TOTAL equals police-force TOTAL,pass,
+2022-06,territory,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2022-06,territory,printed data date equals month end,pass,2022-06-30
+2022-06,territory,provinces sum to their region (all case columns),pass,
+2022-06,territory,19 regions sum to national TOTAL (all case columns),pass,
+2022-06,police forces,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2022-06,police forces,printed data date equals month end,pass,2022-06-30
+2022-06,police forces,institutions sum to TOTAL (all case columns),pass,
+2022-06,cross-table,territorial TOTAL equals police-force TOTAL,pass,
+2022-07,territory,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2022-07,territory,printed data date equals month end,pass,2022-07-31
+2022-07,territory,provinces sum to their region (all case columns),pass,
+2022-07,territory,19 regions sum to national TOTAL (all case columns),pass,
+2022-07,police forces,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2022-07,police forces,printed data date equals month end,pass,2022-07-31
+2022-07,police forces,institutions sum to TOTAL (all case columns),pass,
+2022-07,cross-table,territorial TOTAL equals police-force TOTAL,pass,
+2022-08,territory,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2022-08,territory,printed data date equals month end,pass,2022-08-31
+2022-08,territory,provinces sum to their region (all case columns),pass,
+2022-08,territory,19 regions sum to national TOTAL (all case columns),pass,
+2022-08,police forces,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2022-08,police forces,printed data date equals month end,pass,2022-08-31
+2022-08,police forces,institutions sum to TOTAL (all case columns),pass,
+2022-08,cross-table,territorial TOTAL equals police-force TOTAL,pass,
+2022-09,territory,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2022-09,territory,printed data date equals month end,pass,2022-09-30
+2022-09,territory,provinces sum to their region (all case columns),pass,
+2022-09,territory,19 regions sum to national TOTAL (all case columns),pass,
+2022-09,police forces,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2022-09,police forces,printed data date equals month end,pass,2022-09-30
+2022-09,police forces,institutions sum to TOTAL (all case columns),pass,
+2022-09,cross-table,territorial TOTAL equals police-force TOTAL,pass,
+2022-10,territory,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2022-10,territory,printed data date equals month end,pass,2022-10-31
+2022-10,territory,provinces sum to their region (all case columns),pass,
+2022-10,territory,19 regions sum to national TOTAL (all case columns),pass,
+2022-10,police forces,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2022-10,police forces,printed data date equals month end,pass,2022-10-31
+2022-10,police forces,institutions sum to TOTAL (all case columns),pass,
+2022-10,cross-table,territorial TOTAL equals police-force TOTAL,pass,
+2022-11,territory,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2022-11,territory,printed data date equals month end,pass,2022-11-30
+2022-11,territory,provinces sum to their region (all case columns),pass,
+2022-11,territory,19 regions sum to national TOTAL (all case columns),pass,
+2022-11,police forces,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2022-11,police forces,printed data date equals month end,pass,2022-11-30
+2022-11,police forces,institutions sum to TOTAL (all case columns),pass,
+2022-11,cross-table,territorial TOTAL equals police-force TOTAL,pass,
+2022-12,territory,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2022-12,territory,printed data date equals month end,pass,2022-12-31
+2022-12,territory,provinces sum to their region (all case columns),pass,
+2022-12,territory,19 regions sum to national TOTAL (all case columns),pass,
+2022-12,police forces,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2022-12,police forces,printed data date equals month end,pass,2022-12-31
+2022-12,police forces,institutions sum to TOTAL (all case columns),pass,
+2022-12,cross-table,territorial TOTAL equals police-force TOTAL,pass,
+2023-01,territory,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2023-01,territory,printed data date equals month end,pass,2023-01-31
+2023-01,territory,provinces sum to their region (all case columns),pass,
+2023-01,territory,19 regions sum to national TOTAL (all case columns),pass,
+2023-01,police forces,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2023-01,police forces,printed data date equals month end,pass,2023-01-31
+2023-01,police forces,institutions sum to TOTAL (all case columns),pass,
+2023-01,cross-table,territorial TOTAL equals police-force TOTAL,pass,
+2023-01,national,matches reference national series,pass,yes
+2023-02,territory,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2023-02,territory,printed data date equals month end,pass,2023-02-28
+2023-02,territory,provinces sum to their region (all case columns),pass,
+2023-02,territory,19 regions sum to national TOTAL (all case columns),pass,
+2023-02,police forces,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2023-02,police forces,printed data date equals month end,pass,2023-02-28
+2023-02,police forces,institutions sum to TOTAL (all case columns),pass,
+2023-02,cross-table,territorial TOTAL equals police-force TOTAL,pass,
+2023-02,national,matches reference national series,pass,yes
+2023-03,territory,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2023-03,territory,printed data date equals month end,pass,2023-03-31
+2023-03,territory,provinces sum to their region (all case columns),pass,
+2023-03,territory,19 regions sum to national TOTAL (all case columns),pass,
+2023-03,police forces,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2023-03,police forces,printed data date equals month end,pass,2023-03-31
+2023-03,police forces,institutions sum to TOTAL (all case columns),pass,
+2023-03,cross-table,territorial TOTAL equals police-force TOTAL,pass,
+2023-03,national,matches reference national series,pass,yes
+2023-04,territory,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2023-04,territory,printed data date equals month end,pass,2023-04-30
+2023-04,territory,provinces sum to their region (all case columns),pass,
+2023-04,territory,19 regions sum to national TOTAL (all case columns),pass,
+2023-04,police forces,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2023-04,police forces,printed data date equals month end,pass,2023-04-30
+2023-04,police forces,institutions sum to TOTAL (all case columns),pass,
+2023-04,cross-table,territorial TOTAL equals police-force TOTAL,pass,
+2023-04,national,matches reference national series,pass,yes
+2023-05,territory,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2023-05,territory,printed data date equals month end,pass,2023-05-31
+2023-05,territory,provinces sum to their region (all case columns),pass,
+2023-05,territory,19 regions sum to national TOTAL (all case columns),pass,
+2023-05,police forces,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2023-05,police forces,printed data date equals month end,pass,2023-05-31
+2023-05,police forces,institutions sum to TOTAL (all case columns),pass,
+2023-05,cross-table,territorial TOTAL equals police-force TOTAL,pass,
+2023-05,national,matches reference national series,pass,yes
+2023-06,territory,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2023-06,territory,printed data date equals month end,pass,2023-06-30
+2023-06,territory,provinces sum to their region (all case columns),pass,
+2023-06,territory,19 regions sum to national TOTAL (all case columns),pass,
+2023-06,police forces,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2023-06,police forces,printed data date equals month end,pass,2023-06-30
+2023-06,police forces,institutions sum to TOTAL (all case columns),pass,
+2023-06,cross-table,territorial TOTAL equals police-force TOTAL,pass,
+2023-06,national,matches reference national series,pass,yes
+2023-07,territory,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2023-07,territory,printed data date equals month end,pass,2023-07-31
+2023-07,territory,provinces sum to their region (all case columns),pass,
+2023-07,territory,19 regions sum to national TOTAL (all case columns),pass,
+2023-07,police forces,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2023-07,police forces,printed data date equals month end,pass,2023-07-31
+2023-07,police forces,institutions sum to TOTAL (all case columns),pass,
+2023-07,cross-table,territorial TOTAL equals police-force TOTAL,pass,
+2023-07,national,matches reference national series,pass,yes
+2023-08,territory,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2023-08,territory,printed data date equals month end,pass,2023-08-31
+2023-08,territory,provinces sum to their region (all case columns),pass,
+2023-08,territory,19 regions sum to national TOTAL (all case columns),pass,
+2023-08,police forces,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2023-08,police forces,printed data date equals month end,pass,2023-08-31
+2023-08,police forces,institutions sum to TOTAL (all case columns),pass,
+2023-08,cross-table,territorial TOTAL equals police-force TOTAL,pass,
+2023-08,national,matches reference national series,pass,yes
+2023-09,territory,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2023-09,territory,printed data date equals month end,pass,2023-09-30
+2023-09,territory,provinces sum to their region (all case columns),pass,
+2023-09,territory,19 regions sum to national TOTAL (all case columns),pass,
+2023-09,police forces,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2023-09,police forces,printed data date equals month end,pass,2023-09-30
+2023-09,police forces,institutions sum to TOTAL (all case columns),pass,
+2023-09,cross-table,territorial TOTAL equals police-force TOTAL,pass,
+2023-09,national,matches reference national series,pass,yes
+2023-10,territory,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2023-10,territory,printed data date equals month end,pass,2023-10-31
+2023-10,territory,provinces sum to their region (all case columns),pass,
+2023-10,territory,19 regions sum to national TOTAL (all case columns),pass,
+2023-10,police forces,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2023-10,police forces,printed data date equals month end,pass,2023-10-31
+2023-10,police forces,institutions sum to TOTAL (all case columns),pass,
+2023-10,cross-table,territorial TOTAL equals police-force TOTAL,pass,
+2023-10,national,matches reference national series,pass,yes
+2023-11,territory,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2023-11,territory,printed data date equals month end,pass,2023-11-30
+2023-11,territory,provinces sum to their region (all case columns),pass,
+2023-11,territory,19 regions sum to national TOTAL (all case columns),pass,
+2023-11,police forces,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2023-11,police forces,printed data date equals month end,pass,2023-11-30
+2023-11,police forces,institutions sum to TOTAL (all case columns),pass,
+2023-11,cross-table,territorial TOTAL equals police-force TOTAL,pass,
+2023-11,national,matches reference national series,pass,yes
+2023-12,territory,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2023-12,territory,printed data date equals month end,pass,2023-12-31
+2023-12,territory,provinces sum to their region (all case columns),pass,
+2023-12,territory,19 regions sum to national TOTAL (all case columns),pass,
+2023-12,police forces,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2023-12,police forces,printed data date equals month end,pass,2023-12-31
+2023-12,police forces,institutions sum to TOTAL (all case columns),pass,
+2023-12,cross-table,territorial TOTAL equals police-force TOTAL,pass,
+2023-12,national,matches reference national series,pass,yes
+2024-01,territory,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2024-01,territory,printed data date equals month end,pass,2024-01-31
+2024-01,territory,provinces sum to their region (all case columns),pass,
+2024-01,territory,19 regions sum to national TOTAL (all case columns),pass,
+2024-01,police forces,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2024-01,police forces,printed data date equals month end,pass,2024-01-31
+2024-01,police forces,institutions sum to TOTAL (all case columns),pass,
+2024-01,cross-table,territorial TOTAL equals police-force TOTAL,pass,
+2024-01,national,matches reference national series,pass,yes
+2024-02,territory,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2024-02,territory,printed data date equals month end,pass,2024-02-29
+2024-02,territory,provinces sum to their region (all case columns),pass,
+2024-02,territory,19 regions sum to national TOTAL (all case columns),pass,
+2024-02,police forces,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2024-02,police forces,printed data date equals month end,pass,2024-02-29
+2024-02,police forces,institutions sum to TOTAL (all case columns),pass,
+2024-02,cross-table,territorial TOTAL equals police-force TOTAL,pass,
+2024-02,national,matches reference national series,pass,yes
+2024-03,territory,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2024-03,territory,printed data date equals month end,pass,2024-03-31
+2024-03,territory,provinces sum to their region (all case columns),pass,
+2024-03,territory,19 regions sum to national TOTAL (all case columns),pass,
+2024-03,police forces,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2024-03,police forces,printed data date equals month end,pass,2024-03-31
+2024-03,police forces,institutions sum to TOTAL (all case columns),pass,
+2024-03,cross-table,territorial TOTAL equals police-force TOTAL,pass,
+2024-03,national,matches reference national series,pass,yes
+2024-04,territory,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2024-04,territory,printed data date equals month end,pass,2024-04-30
+2024-04,territory,provinces sum to their region (all case columns),pass,
+2024-04,territory,19 regions sum to national TOTAL (all case columns),pass,
+2024-04,police forces,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2024-04,police forces,printed data date equals month end,pass,2024-04-30
+2024-04,police forces,institutions sum to TOTAL (all case columns),pass,
+2024-04,cross-table,territorial TOTAL equals police-force TOTAL,pass,
+2024-04,national,matches reference national series,pass,yes
+2024-05,territory,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2024-05,territory,printed data date equals month end,pass,2024-05-31
+2024-05,territory,provinces sum to their region (all case columns),pass,
+2024-05,territory,19 regions sum to national TOTAL (all case columns),pass,
+2024-05,police forces,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2024-05,police forces,printed data date equals month end,pass,2024-05-31
+2024-05,police forces,institutions sum to TOTAL (all case columns),pass,
+2024-05,cross-table,territorial TOTAL equals police-force TOTAL,pass,
+2024-05,national,matches reference national series,pass,yes
+2024-06,territory,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2024-06,territory,printed data date equals month end,pass,2024-06-30
+2024-06,territory,provinces sum to their region (all case columns),pass,
+2024-06,territory,19 regions sum to national TOTAL (all case columns),pass,
+2024-06,police forces,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2024-06,police forces,printed data date equals month end,pass,2024-06-30
+2024-06,police forces,institutions sum to TOTAL (all case columns),pass,
+2024-06,cross-table,territorial TOTAL equals police-force TOTAL,pass,
+2024-06,national,matches reference national series,pass,yes
+2024-07,territory,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2024-07,territory,printed data date equals month end,pass,2024-07-31
+2024-07,territory,provinces sum to their region (all case columns),pass,
+2024-07,territory,19 regions sum to national TOTAL (all case columns),pass,
+2024-07,police forces,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2024-07,police forces,printed data date equals month end,pass,2024-07-31
+2024-07,police forces,institutions sum to TOTAL (all case columns),pass,
+2024-07,cross-table,territorial TOTAL equals police-force TOTAL,pass,
+2024-07,national,matches reference national series,pass,yes
+2024-08,territory,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2024-08,territory,printed data date equals month end,pass,2024-08-31
+2024-08,territory,provinces sum to their region (all case columns),pass,
+2024-08,territory,19 regions sum to national TOTAL (all case columns),pass,
+2024-08,police forces,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2024-08,police forces,printed data date equals month end,pass,2024-08-31
+2024-08,police forces,institutions sum to TOTAL (all case columns),pass,
+2024-08,cross-table,territorial TOTAL equals police-force TOTAL,pass,
+2024-08,national,matches reference national series,pass,yes
+2024-09,territory,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2024-09,territory,printed data date equals month end,pass,2024-09-30
+2024-09,territory,provinces sum to their region (all case columns),pass,
+2024-09,territory,19 regions sum to national TOTAL (all case columns),pass,
+2024-09,police forces,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2024-09,police forces,printed data date equals month end,pass,2024-09-30
+2024-09,police forces,institutions sum to TOTAL (all case columns),pass,
+2024-09,cross-table,territorial TOTAL equals police-force TOTAL,pass,
+2024-09,national,matches reference national series,pass,yes
+2024-10,territory,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2024-10,territory,printed data date equals month end,pass,2024-10-31
+2024-10,territory,provinces sum to their region (all case columns),pass,
+2024-10,territory,19 regions sum to national TOTAL (all case columns),pass,
+2024-10,police forces,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2024-10,police forces,printed data date equals month end,pass,2024-10-31
+2024-10,police forces,institutions sum to TOTAL (all case columns),pass,
+2024-10,cross-table,territorial TOTAL equals police-force TOTAL,pass,
+2024-10,national,matches reference national series,pass,yes
+2024-11,territory,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2024-11,territory,printed data date equals month end,pass,2024-11-30
+2024-11,territory,provinces sum to their region (all case columns),pass,
+2024-11,territory,19 regions sum to national TOTAL (all case columns),pass,
+2024-11,police forces,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2024-11,police forces,printed data date equals month end,pass,2024-11-30
+2024-11,police forces,institutions sum to TOTAL (all case columns),pass,
+2024-11,cross-table,territorial TOTAL equals police-force TOTAL,pass,
+2024-11,national,matches reference national series,pass,yes
+2024-12,territory,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2024-12,territory,printed data date equals month end,pass,2024-12-31
+2024-12,territory,provinces sum to their region (all case columns),pass,
+2024-12,territory,19 regions sum to national TOTAL (all case columns),pass,
+2024-12,police forces,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2024-12,police forces,printed data date equals month end,pass,2024-12-31
+2024-12,police forces,institutions sum to TOTAL (all case columns),pass,
+2024-12,cross-table,territorial TOTAL equals police-force TOTAL,pass,
+2024-12,national,matches reference national series,pass,yes
+2025-01,territory,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2025-01,territory,printed data date equals month end,pass,2025-01-31
+2025-01,territory,provinces sum to their region (all case columns),pass,
+2025-01,territory,19 regions sum to national TOTAL (all case columns),pass,
+2025-01,police forces,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2025-01,police forces,printed data date equals month end,pass,2025-01-31
+2025-01,police forces,institutions sum to TOTAL (all case columns),pass,
+2025-01,cross-table,territorial TOTAL equals police-force TOTAL,pass,
+2025-01,national,matches reference national series,pass,yes
+2025-02,territory,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2025-02,territory,printed data date equals month end,pass,2025-02-28
+2025-02,territory,provinces sum to their region (all case columns),pass,
+2025-02,territory,19 regions sum to national TOTAL (all case columns),pass,
+2025-02,police forces,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2025-02,police forces,printed data date equals month end,pass,2025-02-28
+2025-02,police forces,institutions sum to TOTAL (all case columns),pass,
+2025-02,cross-table,territorial TOTAL equals police-force TOTAL,pass,
+2025-02,national,matches reference national series,pass,yes
+2025-03,territory,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2025-03,territory,printed data date equals month end,pass,2025-03-31
+2025-03,territory,provinces sum to their region (all case columns),pass,
+2025-03,territory,19 regions sum to national TOTAL (all case columns),pass,
+2025-03,police forces,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2025-03,police forces,printed data date equals month end,pass,2025-03-31
+2025-03,police forces,institutions sum to TOTAL (all case columns),pass,
+2025-03,cross-table,territorial TOTAL equals police-force TOTAL,pass,
+2025-03,national,matches reference national series,pass,yes
+2025-04,territory,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2025-04,territory,printed data date equals month end,pass,2025-04-30
+2025-04,territory,provinces sum to their region (all case columns),pass,
+2025-04,territory,19 regions sum to national TOTAL (all case columns),pass,
+2025-04,police forces,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2025-04,police forces,printed data date equals month end,pass,2025-04-30
+2025-04,police forces,institutions sum to TOTAL (all case columns),pass,
+2025-04,cross-table,territorial TOTAL equals police-force TOTAL,pass,
+2025-04,national,matches reference national series,pass,yes
+2025-05,territory,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2025-05,territory,printed data date equals month end,pass,2025-05-31
+2025-05,territory,provinces sum to their region (all case columns),pass,
+2025-05,territory,19 regions sum to national TOTAL (all case columns),pass,
+2025-05,police forces,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2025-05,police forces,printed data date equals month end,pass,2025-05-31
+2025-05,police forces,institutions sum to TOTAL (all case columns),pass,
+2025-05,cross-table,territorial TOTAL equals police-force TOTAL,pass,
+2025-05,national,matches reference national series,pass,yes
+2025-06,territory,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2025-06,territory,printed data date equals month end,pass,2025-06-30
+2025-06,territory,provinces sum to their region (all case columns),pass,
+2025-06,territory,19 regions sum to national TOTAL (all case columns),pass,
+2025-06,police forces,table present in bulletin,not available,"not printed in this bulletin; previous VioGén portal transcription used, reconciles to the bulletin TOTAL"
+2025-06,national,matches reference national series,pass,yes
+2025-07,territory,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2025-07,territory,printed data date equals month end,pass,2025-07-31
+2025-07,territory,provinces sum to their region (all case columns),pass,
+2025-07,territory,19 regions sum to national TOTAL (all case columns),pass,
+2025-07,police forces,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2025-07,police forces,printed data date equals month end,pass,2025-07-31
+2025-07,police forces,institutions sum to TOTAL (all case columns),pass,
+2025-07,cross-table,territorial TOTAL equals police-force TOTAL,pass,
+2025-07,national,matches reference national series,pass,yes
+2025-08,territory,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2025-08,territory,printed data date equals month end,pass,2025-08-31
+2025-08,territory,provinces sum to their region (all case columns),pass,
+2025-08,territory,19 regions sum to national TOTAL (all case columns),pass,
+2025-08,police forces,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2025-08,police forces,printed data date equals month end,pass,2025-08-31
+2025-08,police forces,institutions sum to TOTAL (all case columns),pass,
+2025-08,cross-table,territorial TOTAL equals police-force TOTAL,pass,
+2025-08,national,matches reference national series,pass,yes
+2025-09,territory,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2025-09,territory,printed data date equals month end,pass,2025-09-30
+2025-09,territory,provinces sum to their region (all case columns),pass,
+2025-09,territory,19 regions sum to national TOTAL (all case columns),pass,
+2025-09,police forces,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2025-09,police forces,printed data date equals month end,pass,2025-09-30
+2025-09,police forces,institutions sum to TOTAL (all case columns),pass,
+2025-09,cross-table,territorial TOTAL equals police-force TOTAL,pass,
+2025-09,national,matches reference national series,pass,yes
+2025-10,territory,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2025-10,territory,printed data date equals month end,pass,2025-10-31
+2025-10,territory,provinces sum to their region (all case columns),pass,
+2025-10,territory,19 regions sum to national TOTAL (all case columns),pass,
+2025-10,police forces,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2025-10,police forces,printed data date equals month end,pass,2025-10-31
+2025-10,police forces,institutions sum to TOTAL (all case columns),pass,
+2025-10,cross-table,territorial TOTAL equals police-force TOTAL,pass,
+2025-10,national,matches reference national series,pass,yes
+2025-11,territory,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2025-11,territory,printed data date equals month end,pass,2025-11-30
+2025-11,territory,provinces sum to their region (all case columns),pass,
+2025-11,territory,19 regions sum to national TOTAL (all case columns),pass,
+2025-11,police forces,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2025-11,police forces,printed data date equals month end,pass,2025-11-30
+2025-11,police forces,institutions sum to TOTAL (all case columns),pass,
+2025-11,cross-table,territorial TOTAL equals police-force TOTAL,pass,
+2025-11,national,matches reference national series,pass,yes
+2025-12,territory,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2025-12,territory,printed data date equals month end,pass,2025-12-31
+2025-12,territory,provinces sum to their region (all case columns),pass,
+2025-12,territory,19 regions sum to national TOTAL (all case columns),pass,
+2025-12,police forces,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2025-12,police forces,printed data date equals month end,pass,2025-12-31
+2025-12,police forces,institutions sum to TOTAL (all case columns),pass,
+2025-12,cross-table,territorial TOTAL equals police-force TOTAL,pass,
+2025-12,national,matches reference national series,pass,yes
+2026-01,territory,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2026-01,territory,printed data date equals month end,pass,2026-01-31
+2026-01,territory,provinces sum to their region (all case columns),pass,
+2026-01,territory,19 regions sum to national TOTAL (all case columns),pass,
+2026-01,police forces,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2026-01,police forces,printed data date equals month end,pass,2026-01-31
+2026-01,police forces,institutions sum to TOTAL (all case columns),pass,
+2026-01,cross-table,territorial TOTAL equals police-force TOTAL,pass,
+2026-01,national,matches reference national series,corrected: official PDF value used,no: high 953->933; active 103481->103461
+2026-02,territory,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2026-02,territory,printed data date equals month end,pass,2026-02-28
+2026-02,territory,provinces sum to their region (all case columns),pass,
+2026-02,territory,19 regions sum to national TOTAL (all case columns),pass,
+2026-02,police forces,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2026-02,police forces,printed data date equals month end,pass,2026-02-28
+2026-02,police forces,institutions sum to TOTAL (all case columns),pass,
+2026-02,cross-table,territorial TOTAL equals police-force TOTAL,pass,
+2026-02,national,matches reference national series,pass,yes
+2026-03,territory,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2026-03,territory,printed data date equals month end,pass,2026-03-31
+2026-03,territory,provinces sum to their region (all case columns),pass,
+2026-03,territory,19 regions sum to national TOTAL (all case columns),pass,
+2026-03,territory,OCR first-pass failures (before cell re-reading),pass,4 first-pass failures; rows re-read: 2; unreadable cells: 0 of 563
+2026-03,police forces,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2026-03,police forces,printed data date equals month end,pass,2026-03-31
+2026-03,police forces,institutions sum to TOTAL (all case columns),pass,
+2026-03,police forces,OCR first-pass failures (before cell re-reading),pass,4 first-pass failures; rows re-read: 2; unreadable cells: 0 of 228
+2026-03,cross-table,territorial TOTAL equals police-force TOTAL,pass,
+2026-03,national,matches reference national series,pass,yes
+2026-04,territory,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2026-04,territory,printed data date equals month end,pass,2026-04-30
+2026-04,territory,provinces sum to their region (all case columns),pass,
+2026-04,territory,19 regions sum to national TOTAL (all case columns),pass,
+2026-04,territory,OCR first-pass failures (before cell re-reading),pass,0 first-pass failures; rows re-read: 0; unreadable cells: 0 of 559
+2026-04,police forces,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2026-04,police forces,printed data date equals month end,pass,2026-04-30
+2026-04,police forces,institutions sum to TOTAL (all case columns),pass,
+2026-04,police forces,OCR first-pass failures (before cell re-reading),pass,7 first-pass failures; rows re-read: 3; unreadable cells: 0 of 229
+2026-04,cross-table,territorial TOTAL equals police-force TOTAL,pass,
+2026-04,national,matches reference national series,pass,yes
+2026-05,territory,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2026-05,territory,printed data date equals month end,pass,2026-05-31
+2026-05,territory,provinces sum to their region (all case columns),pass,
+2026-05,territory,19 regions sum to national TOTAL (all case columns),pass,
+2026-05,territory,OCR first-pass failures (before cell re-reading),pass,2 first-pass failures; rows re-read: 1; unreadable cells: 0 of 560
+2026-05,police forces,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2026-05,police forces,printed data date equals month end,pass,2026-05-31
+2026-05,police forces,institutions sum to TOTAL (all case columns),pass,
+2026-05,police forces,OCR first-pass failures (before cell re-reading),pass,2 first-pass failures; rows re-read: 1; unreadable cells: 0 of 230
+2026-05,cross-table,territorial TOTAL equals police-force TOTAL,pass,
+2026-05,national,matches reference national series,pass,yes
+2026-06,territory,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2026-06,territory,printed data date equals month end,pass,2026-06-30
+2026-06,territory,provinces sum to their region (all case columns),pass,
+2026-06,territory,19 regions sum to national TOTAL (all case columns),pass,
+2026-06,territory,OCR first-pass failures (before cell re-reading),pass,5 first-pass failures; rows re-read: 2; unreadable cells: 0 of 557
+2026-06,police forces,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2026-06,police forces,printed data date equals month end,pass,2026-06-30
+2026-06,police forces,institutions sum to TOTAL (all case columns),pass,
+2026-06,police forces,OCR first-pass failures (before cell re-reading),pass,3 first-pass failures; rows re-read: 2; unreadable cells: 0 of 229
+2026-06,cross-table,territorial TOTAL equals police-force TOTAL,pass,
+2026-06,national,matches reference national series,pass,yes
+2026-07,territory,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2026-07,territory,printed data date equals month end,pass,2026-07-31
+2026-07,territory,provinces sum to their region (all case columns),pass,
+2026-07,territory,19 regions sum to national TOTAL (all case columns),pass,
+2026-07,territory,OCR first-pass failures (before cell re-reading),pass,5 first-pass failures; rows re-read: 2; unreadable cells: 0 of 558
+2026-07,police forces,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2026-07,police forces,printed data date equals month end,pass,2026-07-31
+2026-07,police forces,institutions sum to TOTAL (all case columns),pass,
+2026-07,police forces,OCR first-pass failures (before cell re-reading),pass,6 first-pass failures; rows re-read: 3; unreadable cells: 0 of 230
+2026-07,cross-table,territorial TOTAL equals police-force TOTAL,pass,
+2026-07,national,matches reference national series,pass,yes
+2026-08,territory,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2026-08,territory,printed data date equals month end,pass,2026-08-31
+2026-08,territory,provinces sum to their region (all case columns),pass,
+2026-08,territory,19 regions sum to national TOTAL (all case columns),pass,
+2026-08,territory,OCR first-pass failures (before cell re-reading),pass,0 first-pass failures; rows re-read: 0; unreadable cells: 0 of 558
+2026-08,police forces,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2026-08,police forces,printed data date equals month end,pass,2026-08-31
+2026-08,police forces,institutions sum to TOTAL (all case columns),pass,
+2026-08,police forces,OCR first-pass failures (before cell re-reading),pass,5 first-pass failures; rows re-read: 2; unreadable cells: 0 of 230
+2026-08,cross-table,territorial TOTAL equals police-force TOTAL,pass,
+2026-08,national,matches reference national series,pass,yes
+2026-09,territory,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2026-09,territory,printed data date equals month end,pass,2026-09-30
+2026-09,territory,provinces sum to their region (all case columns),pass,
+2026-09,territory,19 regions sum to national TOTAL (all case columns),pass,
+2026-09,territory,OCR first-pass failures (before cell re-reading),pass,0 first-pass failures; rows re-read: 0; unreadable cells: 0 of 560
+2026-09,police forces,every row: risk levels sum to active; active+supervised+inactive = total,pass,
+2026-09,police forces,printed data date equals month end,pass,2026-09-30
+2026-09,police forces,institutions sum to TOTAL (all case columns),pass,
+2026-09,police forces,OCR first-pass failures (before cell re-reading),pass,2 first-pass failures; rows re-read: 1; unreadable cells: 0 of 230
+2026-09,cross-table,territorial TOTAL equals police-force TOTAL,pass,
+2026-09,national,matches reference national series,pass,yes
+2026-10,all,official bulletin available,not available,"no DGVG bulletin published for this month (HTTP 404, 11 Nov 2026)"

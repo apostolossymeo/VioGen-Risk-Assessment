@@ -1,0 +1,88 @@
+month,table,issue_type,detail,resolution
+2020-06,territory,table not extracted,image table not extracted (OCR not attempted) ,none; left missing
+2020-06,force,table not extracted,failed checks ,none; left missing
+2020-07,territory,table not extracted,image table not extracted (OCR not attempted) ,none; left missing
+2020-07,force,table not extracted,failed checks ,none; left missing
+2020-09,territory,table not extracted,image table not extracted (OCR not attempted) ,none; left missing
+2020-09,force,table not extracted,image table not extracted (OCR not attempted) ,none; left missing
+2020-10,territory,table not extracted,image table not extracted (OCR not attempted) ,none; left missing
+2020-10,force,table not extracted,image table not extracted (OCR not attempted) ,none; left missing
+2020-12,territory,table not extracted,failed checks ,no regional or provincial rows; national row taken from the reconciled police-institution TOTAL
+2020-12,force,OCR cell re-read,PL Cantabria: high first read blank -> 0; extreme first read blank -> 0; inactive first read 999 -> 599; total first read 169 -> 769,only combination of OCR readings satisfying the row identities
+2020-12,force,OCR cell re-read,PL Castilla-La Mancha: low first read 92 -> 52; high first read blank -> 0; extreme first read blank -> 0; total first read 922 -> 522,only combination of OCR readings satisfying the row identities
+2020-12,force,OCR cell re-read,PL La Rioja: extreme first read blank -> 0; inactive first read 945 -> 545; victims first read 994 -> 594,only combination of OCR readings satisfying the row identities
+2020-12,force,OCR cell re-read,PL Melilla: low first read blank -> 7; high first read blank -> 0; extreme first read blank -> 0,only combination of OCR readings satisfying the row identities
+2020-12,force,OCR cell re-read,TOTAL: inactive first read 949409 -> 549409; victims first read 994960 -> 554960,only combination of OCR readings satisfying the row identities
+2020-12,force,OCR cell re-read,PL Ceuta: low first read 34 -> 54; medium first read blank -> 0; high first read blank -> 0; extreme first read blank -> 0,only combination of OCR readings satisfying the row identities and the parent-row identity
+2021-03,territory,table not extracted,image table not extracted (OCR not attempted) ,no regional or provincial rows; national row taken from the reconciled police-institution TOTAL
+2021-04,territory,table not extracted,image table not extracted (OCR not attempted) ,none; left missing
+2021-04,force,table not extracted,image table not extracted (OCR not attempted) ,none; left missing
+2021-05,territory,table not extracted,image table not extracted (OCR not attempted) ,none; left missing
+2021-05,force,table not extracted,image table not extracted (OCR not attempted) ,none; left missing
+2021-06,territory,table not extracted,image table not extracted (OCR not attempted) ,no regional or provincial rows; national row taken from the reconciled police-institution TOTAL
+2021-08,territory,table not extracted,image table not extracted (OCR not attempted) ,none; left missing
+2021-08,force,table not extracted,image table not extracted (OCR not attempted) ,none; left missing
+2021-09,territory,table not extracted,image table not extracted (OCR not attempted) ,none; left missing
+2021-09,force,table not extracted,image table not extracted (OCR not attempted) ,none; left missing
+2021-10,territory,table not extracted,image table not extracted (OCR not attempted) ,none; left missing
+2021-10,force,table not extracted,image table not extracted (OCR not attempted) ,none; left missing
+2025-01,force,printed artefact in source,TOTAL active printed as '1E+05' (spreadsheet scientific notation),"territorial TOTAL row, same bulletin and date"
+2025-05,force,printed artefact in source,TOTAL active printed as '1E+05' (spreadsheet scientific notation),"territorial TOTAL row, same bulletin and date"
+2025-06,force,table not extracted,table not present in bulletin ,June 2025 force table taken from previous portal transcription
+2026-03,territory,OCR cell re-read,Valladolid: high first read 8 -> 9; extreme first read blank -> 0,only combination of OCR readings satisfying the row identities and the parent-row identity
+2026-03,territory,OCR cell re-read,Guadalajara: low first read 915 -> 515,only combination of OCR readings satisfying the row identities and the parent-row identity
+2026-03,force,OCR cell re-read,Guardia Civil: extreme first read blank -> 9,only combination of OCR readings satisfying the row identities
+2026-03,force,OCR cell re-read,Policía Foral de Navarra: low first read 963 -> 563,only combination of OCR readings satisfying the row identities
+2026-04,force,OCR cell re-read,Policía Foral de Navarra: low first read 964 -> 564,only combination of OCR readings satisfying the row identities
+2026-04,force,OCR cell re-read,PL Cantabria: supervised first read blank -> 9,only combination of OCR readings satisfying the row identities
+2026-04,force,OCR cell re-read,PL Comunitat Valenciana: active first read 9023 -> 5023,only combination of OCR readings satisfying the row identities
+2026-05,territory,OCR cell re-read,Valladolid: high first read 8 -> 9; extreme first read blank -> 0,only combination of OCR readings satisfying the row identities
+2026-05,force,OCR cell re-read,PL La Rioja: inactive first read 172 -> 772,only combination of OCR readings satisfying the row identities
+2026-06,territory,OCR cell re-read,Palencia: high first read blank -> 9; supervised first read 8 -> 9,only combination of OCR readings satisfying the row identities
+2026-06,territory,OCR cell re-read,Segovia: supervised first read blank -> 9,only combination of OCR readings satisfying the row identities and the parent-row identity
+2026-06,force,OCR cell re-read,PL Illes Balears: supervised first read 95 -> 55,only combination of OCR readings satisfying the row identities
+2026-06,force,OCR cell re-read,PL Canarias: supervised first read blank -> 9,only combination of OCR readings satisfying the row identities
+2026-07,territory,OCR cell re-read,Canarias: high first read 37 -> 57,only combination of OCR readings satisfying the row identities
+2026-07,territory,OCR cell re-read,Palencia: supervised first read 8 -> 9,only combination of OCR readings satisfying the row identities
+2026-07,force,OCR cell re-read,Policía Foral de Navarra: low first read 938 -> 538,only combination of OCR readings satisfying the row identities
+2026-07,force,OCR cell re-read,PL Illes Balears: supervised first read 95 -> 55,only combination of OCR readings satisfying the row identities
+2026-07,force,OCR cell re-read,PL Región de Murcia: medium first read 95 -> 55; extreme first read blank -> 0,only combination of OCR readings satisfying the row identities and the parent-row identity
+2026-08,force,OCR cell re-read,PL Comunitat Valenciana: active first read 9073 -> 5073,only combination of OCR readings satisfying the row identities
+2026-08,force,OCR cell re-read,PL Illes Balears: active first read 157 -> 757,only combination of OCR readings satisfying the row identities and the parent-row identity
+2026-09,force,OCR cell re-read,Policía Foral de Navarra: low first read 946 -> 546,only combination of OCR readings satisfying the row identities
+2020-02 to 2024-10 (50 months),force,name variant harmonised,printed 'Cuerpo Nacional de Policía',mapped to 'Policía Nacional'
+2020-02 to 2024-10 (49 months),force,name variant harmonised,printed 'PL Asturias',mapped to 'PL Principado de Asturias'
+2020-12 to 2020-12 (1 months),force,name variant harmonised,printed 'PL Asturias:',mapped to 'PL Principado de Asturias'
+2020-02 to 2024-10 (49 months),force,name variant harmonised,printed 'PL Baleares',mapped to 'PL Illes Balears'
+2024-11 to 2024-11 (1 months),force,name variant harmonised,printed 'PL Balears Illes',mapped to 'PL Illes Balears'
+2020-02 to 2024-10 (49 months),force,name variant harmonised,printed 'PL Comunidad Valenciana',mapped to 'PL Comunitat Valenciana'
+2020-02 to 2024-10 (50 months),force,name variant harmonised,printed 'PL Madrid',mapped to 'PL Comunidad de Madrid'
+2020-02 to 2024-10 (50 months),force,name variant harmonised,printed 'PL Murcia',mapped to 'PL Región de Murcia'
+2020-02 to 2024-10 (50 months),force,name variant harmonised,printed 'PL Navarra',mapped to 'PL Comunidad Foral de Navarra'
+2024-11 to 2024-11 (1 months),force,name variant harmonised,printed 'PL Pincipado de Asturias',mapped to 'PL Principado de Asturias'
+2024-11 to 2024-11 (1 months),force,name variant harmonised,printed 'PL Rioja La',mapped to 'PL La Rioja'
+2020-02 to 2024-10 (50 months),force,name variant harmonised,printed 'Policía Foral Navarra',mapped to 'Policía Foral de Navarra'
+2020-12 to 2020-12 (1 months),territory,name variant harmonised,printed 'Alava',mapped to 'Araba/Álava'
+2018-01 to 2022-06 (43 months),territory,name variant harmonised,printed 'Alicante',mapped to 'Alicante/Alacant'
+2018-01 to 2022-06 (43 months),territory,name variant harmonised,printed 'Asturias',mapped to 'Principado de Asturias'
+2024-11 to 2024-11 (1 months),territory,name variant harmonised,printed 'Balears Illes',mapped to 'Illes Balears'
+2018-01 to 2022-06 (43 months),territory,name variant harmonised,printed 'Castellón',mapped to 'Castellón/Castelló'
+2018-01 to 2022-06 (43 months),territory,name variant harmonised,printed 'Comunidad Valenciana',mapped to 'Comunitat Valenciana'
+2024-11 to 2024-12 (2 months),territory,name variant harmonised,"printed 'Coruña, A'",mapped to 'A Coruña'
+2018-01 to 2022-06 (43 months),territory,name variant harmonised,printed 'Guipúzcoa',mapped to 'Gipuzkoa'
+2018-01 to 2022-06 (42 months),territory,name variant harmonised,printed 'Islas Baleares',mapped to 'Illes Balears'
+2020-12 to 2020-12 (1 months),territory,name variant harmonised,printed 'Ma drid',mapped to 'Comunidad de Madrid'
+2018-01 to 2022-06 (42 months),territory,name variant harmonised,printed 'Madrid',mapped to 'Comunidad de Madrid'
+2018-01 to 2022-06 (43 months),territory,name variant harmonised,printed 'Murcia',mapped to 'Región de Murcia'
+2018-01 to 2022-06 (42 months),territory,name variant harmonised,printed 'Navarra',mapped to 'Comunidad Foral de Navarra'
+2024-11 to 2024-12 (2 months),territory,name variant harmonised,"printed 'Palmas, Las'",mapped to 'Las Palmas'
+2024-11 to 2024-11 (1 months),territory,name variant harmonised,printed 'Pincipado de Asturias',mapped to 'Principado de Asturias'
+2024-11 to 2024-11 (1 months),territory,name variant harmonised,printed 'Rioja La',mapped to 'La Rioja'
+2018-01 to 2022-06 (43 months),territory,name variant harmonised,printed 'Valencia',mapped to 'Valencia/València'
+2018-01 to 2022-06 (43 months),territory,name variant harmonised,printed 'Vizcaya',mapped to 'Bizkaia'
+2022-07 to 2024-01 (19 months),territory,name variant harmonised,printed 'omunidad Foral de Navarra',mapped to 'Comunidad Foral de Navarra'
+2020-12 to 2020-12 (1 months),territory,name variant harmonised,printed '| Islas Baleares',mapped to 'Illes Balears'
+2018-01 to 2022-06 (42 months),territory,name variant harmonised,printed 'Álava',mapped to 'Araba/Álava'
+2018-01 to 2020-01,force,table not published,the police-institution table is first printed in the February 2020 bulletin,no police-institution rows before February 2020
+2026-10,all,source not available,BEM_Octubre_2026.pdf returns HTTP 404 (11 Nov 2026); VioGén portal listing disallows automated access (robots.txt),"national row kept from press relay, flagged unverified; no subnational rows"
+2025-06,police forces,source not reachable,force table not printed in the June 2025 bulletin; VioGén portal PDF not reachable from this environment,previous manual transcription kept; reconciles exactly to the bulletin national TOTAL
