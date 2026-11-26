@@ -21,8 +21,6 @@ md(r'''
 # VioGén investigation · Module 3
 ## From a risk level to an administrative obligation: where does discretion sit in the 2019 and 2025 police protocols?
 
-**Sciences Po · Data and Algorithms for Public Policy (Simon Chignard)**
-
 **Question.** Who decides what, between the recording officer, the system's designers, the specialised police unit, police management, courts, prosecutors and the victim, once VioGén assigns a risk level? And which of the 2019→2025 differences were actually introduced by VioGén-2?
 
 > **Scope.** An institutional reading of two protocol texts, Instrucción 4/2019 and Instrucción 1/2025, plus the instructions issued between them. The automatic risk level is an **input**. It is never computed, and VioGén-2's scoring is neither reconstructed nor approximated. Everything below describes **formal rules**, not what police do. The 50 "pathways" are combinations of rules, not cases.
