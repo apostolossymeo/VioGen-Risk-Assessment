@@ -1,4 +1,4 @@
-"""Historical VPR4.0 laboratory: Streamlit interface. Research and teaching only.
+"""Historical VPR4.0 laboratory: Streamlit interface. For research use only.
 
 Run:  streamlit run interactive_app.py
 Not VioGén 2, not the operational software, never for a real person. Every scenario is fictitious.
@@ -57,10 +57,10 @@ if 'ans_' + ITEMS[0].code not in st.session_state:
     load_preset(st.session_state['preset'])
 
 st.title('VPR4.0 (2016): how a police form turns answers into a risk level')
-st.caption('Sciences Po · Data and Algorithms for Public Policy · Group D. Source: López Ossorio (2016), UAM doctoral '
+st.caption('Source: López Ossorio (2016), UAM doctoral '
            'thesis: Annex 1 pp. 274-275 (weights), pp. 192-194 (method, cut-offs), Annexes 2 and 5 (form), '
            'Annex 6 (Instrucción 7/2016).')
-st.error('Historical reconstruction for teaching. This is NOT VioGén 2 (2025), not the police software, and must '
+st.error('Historical reconstruction for research. This is NOT VioGén 2 (2025), not the police software, and must '
          'never be used to assess a real person or decide on protection. All scenarios are fictitious.')
 
 with st.sidebar:

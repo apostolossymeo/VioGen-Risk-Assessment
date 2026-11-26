@@ -13,4 +13,3 @@ ipykernel>=6.29      # tested 7.4.0
 # Optional
 ipywidgets>=8.1      # notebook section 10; tested 8.1.9
 pymupdf>=1.24        # only to re-check the transcription against the thesis PDF; tested 2.1
-# Browser check (optional, not pip): node + playwright, see tools/browser_check_app.js
