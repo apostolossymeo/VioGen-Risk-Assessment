@@ -1,8 +1,7 @@
 # Methods and limitations
 
-Module 1 of Group D's investigation of VioGén 2 for *Data and Algorithms for Public Policy* (Sciences Po).
-The aim is to describe how the published risk classifications change across the 2025 reform, as evidence
-about where the system places administrative discretion. The series starts in January 2018, so that the
+This study uses monthly VioGén bulletins to examine how the 2025 reform changed the risk
+classifications that structure police follow-up. The series starts in January 2018, so that the
 previous protocol change (March 2019) can serve as a benchmark. This is **not** an audit of predictive accuracy
 or of legal compliance.
 

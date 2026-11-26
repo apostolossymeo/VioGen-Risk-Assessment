@@ -1,7 +1,5 @@
 # VioGén 2 · Module 1: completed data package
 
-Group D, *Data and Algorithms for Public Policy* (Sciences Po).
-
 **Research question.** How does VioGén 2 transform administrative discretion in police risk management?
 - *What this module does.* It uses the official monthly statistics to show what the 2025 reform changed in the
   *published classifications and statuses* that structure police follow-up, and what those statistics cannot show.
