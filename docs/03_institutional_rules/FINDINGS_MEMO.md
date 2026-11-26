@@ -135,6 +135,6 @@ Details of the 2024 supervision regime (grade C): a 6-month look-back for Medio+
 - The scoring of VioGén-2 is out of scope by design. Module 2's VPR4.0 (2016) is not VioGén-2.
 - No causal claim about VioGén-2 can be drawn from comparing protocols.
 
-### Suggested framing for the presentation
+### Interpretation
 
 > **The algorithm's output is fenced (raise-only); the discretion moved to inputs, to courts' measures, to designer-built flags, and above all to the rules for closing a case, which changed in 2024 as much as in 2025.**

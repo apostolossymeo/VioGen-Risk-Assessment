@@ -1,10 +1,10 @@
-# Classroom interface specification
+# Research interface specification
 
 > **Status: not built.** This is a specification for a later, separate project. Nothing in Module 3 is application code. The data describe formal rules in two protocol texts; they do not describe police practice or real cases.
 
 ## Purpose
 
-An interactive classroom tool. The user walks through a fictional case and sees, at each step, who holds the decision and which clause says so. It is a teaching device about where discretion sits. It is not a risk calculator.
+The proposed interface would trace a fictional case through the 2019 and 2025 protocols. For each decision, it would identify the responsible actor and cite the governing clause. The analysis starts from an assigned risk level.
 
 ## Data contract
 
