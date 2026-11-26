@@ -12,8 +12,6 @@ code = lambda s: C.append(nbf.v4.new_code_cell(s))
 
 md("""# VioGén 2 · Module 1: how the 2025 reform reshaped the risk categories that structure police follow-up
 
-**Course:** Data and Algorithms for Public Policy (Sciences Po, S. Chignard & P.-E. Devineau) · **Group D**
-
 **Question for this module.** VioGén 2 changed *how cases are classified and administered*: the lowest
 category ("No apreciado") was abolished from July 2025, and a new administrative status ("Supervisados")
 appears in the statistics from November 2024. This notebook uses the official monthly bulletins from
