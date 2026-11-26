@@ -32,7 +32,7 @@ Each item of the review checklist for version 1 is answered here.
 
 | Item | Status |
 |---|---|
-| Streamlit | Run headless (6 AppTest tests) and in Chromium at desktop and phone widths, with 0 console errors. Presets, reset, parent/child behaviour, unknown ranges, override and the judicial checkbox are all tested. A live result was added to the sidebar after testing showed the score scrolled out of view. |
+| Streamlit | Verified with six Streamlit AppTest tests. Presets, reset, parent/child behaviour, unknown ranges, override and the judicial checkbox are all tested. A live result was added to the sidebar after testing showed the score scrolled out of view. |
 | Notebook | Executed from an empty folder (14 code cells, 0 errors), both in the build environment and in a fresh virtual environment built from [`requirements.txt`](../../scripts/02_historical_scoring/requirements.txt). The widget logic was tested headlessly. **Not run on Colab itself.** |
 | Requirements | [`requirements.txt`](../../scripts/02_historical_scoring/requirements.txt) with the tested versions. |
 
@@ -43,11 +43,10 @@ Each item of the review checklist for version 1 is answered here.
 | 1.533 versus 5.533 | Verified. Explained by the critical list (p. 192) and the 30-case frequency (p. 163). |
 | 8.226 and 11.056 | Verified (rows 30, 60, 63). |
 | "22 facts and still no apreciado" | **Superseded.** The exact maximum is 25 indicators (27 facts), example score 9.165. It is a logical possibility, not an observed case. |
-| Classroom demonstration | [`CLASSROOM_DEMO_SCRIPT.md`](../../docs/02_historical_scoring/CLASSROOM_DEMO_SCRIPT.md) |
 
 ## Package files
 
-[`SOURCE_VERIFICATION_MATRIX.csv`](../../data/02_historical_scoring/SOURCE_VERIFICATION_MATRIX.csv), [`CHANGELOG.md`](../../docs/02_historical_scoring/CHANGELOG.md), [`UNRESOLVED_LIMITATIONS.md`](../../docs/02_historical_scoring/UNRESOLVED_LIMITATIONS.md), [`CLASSROOM_DEMO_SCRIPT.md`](../../docs/02_historical_scoring/CLASSROOM_DEMO_SCRIPT.md), [`requirements.txt`](../../scripts/02_historical_scoring/requirements.txt), the updated catalogue, engine, app, notebook, tests and figures, plus [`02_historical_scoring/`](../../sources/02_historical_scoring/).
+[`SOURCE_VERIFICATION_MATRIX.csv`](../../data/02_historical_scoring/SOURCE_VERIFICATION_MATRIX.csv), [`CHANGELOG.md`](../../docs/02_historical_scoring/CHANGELOG.md), [`UNRESOLVED_LIMITATIONS.md`](../../docs/02_historical_scoring/UNRESOLVED_LIMITATIONS.md), [`requirements.txt`](../../scripts/02_historical_scoring/requirements.txt), the updated catalogue, engine, app, notebook, tests and figures, plus [`02_historical_scoring/`](../../sources/02_historical_scoring/).
 
 ## Open items for a later round
 

@@ -51,7 +51,7 @@ Old codes are still accepted (`OLD_CODE_ALIASES` in the engine).
   - The score range is shown under unknowns.
   - Override selector offering only levels at or above the automatic one.
   - Judicial-measure checkbox, procedural consequences, firearm/knife panel, and a table of structural extremes.
-  - The app was run headless (`streamlit.testing.v1.AppTest`) and in Chromium at desktop and phone widths, with no console errors.
+  - The app was tested with `streamlit.testing.v1.AppTest`.
 - The notebook was rebuilt into 11 sections, covering source verification, structure, thresholds, firearm/knife, zero weights, many-indicators, unknowns, the four layers of discretion, the design counterfactual and the VioGén 2 bridge.
   - It is executed in an empty folder, where it writes its own engine and catalogue. Its 14 code cells ran with 0 errors.
   - The ipywidgets cell was tested headlessly, with ipywidgets 8.1.9.
@@ -65,7 +65,7 @@ Old codes are still accepted (`OLD_CODE_ALIASES` in the engine).
 
 ### New documents
 
-`SOURCE_VERIFICATION_MATRIX.csv`, `UNRESOLVED_LIMITATIONS.md`, `CLASSROOM_DEMO_SCRIPT.md`, `requirements.txt`, `source_evidence/` (page images of every passage cited).
+`SOURCE_VERIFICATION_MATRIX.csv`, `UNRESOLVED_LIMITATIONS.md`, `requirements.txt`, `source_evidence/` (page images of every passage cited).
 
 ## Version 1
 
