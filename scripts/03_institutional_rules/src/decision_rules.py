@@ -1,6 +1,6 @@
 """Documentary rules engine for the 2019 and 2025 VioGén police protocols (version 2).
 
-Research and teaching only. It NEVER computes a risk level: the automatic level is an input, as in the texts.
+For research use only. It NEVER computes a risk level: the automatic level is an input, as in the texts.
 It encodes what Instrucción 4/2019 and Instrucción 1/2025 say happens next, and returns "cannot_determine" whenever
 a prerequisite the text depends on is unknown (None). It is not police guidance and says nothing about practice.
 
